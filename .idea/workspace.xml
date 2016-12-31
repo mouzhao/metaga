@@ -1,0 +1,1707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="197c5286-0999-4060-98ed-9b84a49f3b2d" name="Default" comment="" />
+    <ignored path="metaGA1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/metaGA1$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1483103119530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="metaGA1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MetaPIGA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/MetaPIGA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="144" column="25" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="25" />
+              <folding>
+                <element signature="method#loadDataFile#0;class#MetaPIGA#0" expanded="false" />
+                <element signature="e#5638#5673#0" expanded="false" />
+                <element signature="e#5921#5927#0" expanded="true" />
+                <element signature="class#UI#0;class#MetaPIGA#0" expanded="false" />
+                <element signature="method#UI#0;class#UI#0;class#MetaPIGA#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsensusPruning.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruning.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="333" column="25" selection-start-line="333" selection-start-column="25" selection-end-line="333" selection-end-column="25" />
+              <folding>
+                <element signature="method#setStartingTrees#0;class#ConsensusPruning#0" expanded="false" />
+                <element signature="method#hasToContinue#0;class#ConsensusPruning#0" expanded="false" />
+                <element signature="method#putBestIndividualFirst#0;class#ConsensusPruning#0" expanded="false" />
+                <element signature="method#IterateGA#0;class#IterateGA#0;class#ConsensusPruning#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Monitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/Monitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parameters.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/parameters/Parameters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1548">
+              <caret line="726" column="5" selection-start-line="726" selection-start-column="5" selection-end-line="726" selection-end-column="5" />
+              <folding>
+                <element signature="initializer##0;class#Parameters#0" expanded="false" />
+                <element signature="method#calibrateLastDomainPosition#0;class#Parameters#0" expanded="false" />
+                <element signature="method#resetDataset#0;class#Parameters#0" expanded="false" />
+                <element signature="method#resetAll#0;class#Parameters#0" expanded="false" />
+                <element signature="method#setParameters#0;class#Parameters#0" expanded="false" />
+                <element signature="method#getNJT#0;class#Parameters#0" expanded="false" />
+                <element signature="method#updateNJTParameters#0;class#Parameters#0" expanded="false" />
+                <element signature="method#assignPartitionColors#0;class#Parameters#0" expanded="false" />
+                <element signature="method#setRateParameter#0;class#Parameters#0" expanded="false" />
+                <element signature="method#setLikelihoodCalcualtionType#0;class#Parameters#0" expanded="false" />
+                <element signature="method#setEmpiricalRates#0;class#Parameters#0" expanded="false" />
+                <element signature="method#getRateParameters#0;class#Parameters#0" expanded="false" />
+                <element signature="method#setEvaluationDistributionShape#0;class#Parameters#0" expanded="false" />
+                <element signature="method#getEvaluationDistributionShape#0;class#Parameters#0" expanded="false" />
+                <element signature="method#setEvaluationPInv#0;class#Parameters#0" expanded="false" />
+                <element signature="method#getEvaluationPInv#0;class#Parameters#0" expanded="false" />
+                <element signature="method#hasPInv#0;class#Parameters#0" expanded="false" />
+                <element signature="method#setParameters#3;class#Parameters#0" expanded="false" />
+                <element signature="method#addStartingTrees#0;class#Parameters#0" expanded="false" />
+                <element signature="method#addStartingTrees#1;class#Parameters#0" expanded="false" />
+                <element signature="method#setStartingTrees#0;class#Parameters#0" expanded="false" />
+                <element signature="method#buildDataset#0;class#Parameters#0" expanded="false" />
+                <element signature="method#defineTransitionCodonTable#0;class#Parameters#0" expanded="false" />
+                <element signature="method#findStopAndAmbiguousCodons#0;class#Parameters#0" expanded="false" />
+                <element signature="method#checkParameters#0;class#Parameters#0" expanded="false" />
+                <element signature="method#hasManyReplicates#0;class#Parameters#0" expanded="false" />
+                <element signature="method#showNexusDataMatrix#0;class#Parameters#0" expanded="false" />
+                <element signature="method#showDataset#0;class#Parameters#0" expanded="false" />
+                <element signature="method#addSpacesToWeightValue#0;class#Parameters#0" expanded="false" />
+                <element signature="method#getModifiedDataBlock#0;class#Parameters#0" expanded="false" />
+                <element signature="method#getMetapigaBlock#0;class#Parameters#0" expanded="false" />
+                <element signature="method#writeTreeBlock#0;class#Parameters#0" expanded="false" />
+                <element signature="method#printParameters#0;class#Parameters#0" expanded="false" />
+                <element signature="method#duplicateButShareDataset#0;class#Parameters#0" expanded="false" />
+                <element signature="method#duplicate#0;class#Parameters#0" expanded="false" />
+                <element signature="method#applyParametersTo#0;class#Parameters#0" expanded="false" />
+                <element signature="method#translateToCodonsInRange#0;class#Parameters#0" expanded="false" />
+                <element signature="method#setCodonsInRange#0;class#Parameters#0" expanded="false" />
+                <element signature="method#revertCodons#0;class#Parameters#0" expanded="false" />
+                <element signature="method#applyParametersTo#1;class#Parameters#0" expanded="false" />
+                <element signature="method#isDatasetModified#0;class#Parameters#0" expanded="false" />
+                <element signature="method#getOptimizer#0;class#Parameters#0" expanded="false" />
+                <element signature="method#preparePtxFile#0;class#Parameters#0" expanded="false" />
+                <element signature="method#getCodonTaransitionTableType#0;class#Parameters#0" expanded="false" />
+                <element signature="method#setCodonTransitionTable#0;class#Parameters#0" expanded="false" />
+                <element signature="method#access$1#0;class#Parameters#0" expanded="false" />
+                <element signature="class#FileFormat#0;class#Parameters#0" expanded="false" />
+                <element signature="method#FileFormat#0;class#FileFormat#0;class#Parameters#0" expanded="false" />
+                <element signature="class#ColumnRemoval#0;class#Parameters#0" expanded="false" />
+                <element signature="method#ColumnRemoval#0;class#ColumnRemoval#0;class#Parameters#0" expanded="false" />
+                <element signature="class#DistanceModel#0;class#Parameters#0" expanded="false" />
+                <element signature="method#DistanceModel#0;class#DistanceModel#0;class#Parameters#0" expanded="false" />
+                <element signature="class#StartingTreeDistribution#0;class#Parameters#0" expanded="false" />
+                <element signature="method#StartingTreeDistribution#0;class#StartingTreeDistribution#0;class#Parameters#0" expanded="false" />
+                <element signature="class#StartingTreeGeneration#0;class#Parameters#0" expanded="false" />
+                <element signature="class#StartingTreePInvPi#0;class#Parameters#0" expanded="false" />
+                <element signature="method#StartingTreePInvPi#0;class#StartingTreePInvPi#0;class#Parameters#0" expanded="false" />
+                <element signature="class#CPConsensus#0;class#Parameters#0" expanded="false" />
+                <element signature="method#CPConsensus#0;class#CPConsensus#0;class#Parameters#0" expanded="false" />
+                <element signature="class#CPOperator#0;class#Parameters#0" expanded="false" />
+                <element signature="method#CPOperator#0;class#CPOperator#0;class#Parameters#0" expanded="false" />
+                <element signature="class#CPOperatorChange#0;class#Parameters#0" expanded="false" />
+                <element signature="method#CPOperatorChange#0;class#CPOperatorChange#0;class#Parameters#0" expanded="false" />
+                <element signature="class#CPSelection#0;class#Parameters#0" expanded="false" />
+                <element signature="method#CPSelection#0;class#CPSelection#0;class#Parameters#0" expanded="false" />
+                <element signature="class#CodonTransitionTableType#0;class#Parameters#0" expanded="false" />
+                <element signature="class#EvaluationDistribution#0;class#Parameters#0" expanded="false" />
+                <element signature="method#EvaluationDistribution#0;class#EvaluationDistribution#0;class#Parameters#0" expanded="false" />
+                <element signature="class#EvaluationModel#0;class#Parameters#0" expanded="false" />
+                <element signature="method#EvaluationModel#0;class#EvaluationModel#0;class#Parameters#0" expanded="false" />
+                <element signature="method#availableModels#0;class#EvaluationModel#0;class#Parameters#0" expanded="false" />
+                <element signature="class#EvaluationRate#0;class#Parameters#0" expanded="false" />
+                <element signature="method#EvaluationRate#0;class#EvaluationRate#0;class#Parameters#0" expanded="false" />
+                <element signature="class#EvaluationStateFrequencies#0;class#Parameters#0" expanded="false" />
+                <element signature="method#EvaluationStateFrequencies#0;class#EvaluationStateFrequencies#0;class#Parameters#0" expanded="false" />
+                <element signature="class#GAOperatorChange#0;class#Parameters#0" expanded="false" />
+                <element signature="method#GAOperatorChange#0;class#GAOperatorChange#0;class#Parameters#0" expanded="false" />
+                <element signature="class#GASelection#0;class#Parameters#0" expanded="false" />
+                <element signature="method#GASelection#0;class#GASelection#0;class#Parameters#0" expanded="false" />
+                <element signature="class#Heuristic#0;class#Parameters#0" expanded="false" />
+                <element signature="method#HeuristicStopCondition#0;class#HeuristicStopCondition#0;class#Parameters#0" expanded="false" />
+                <element signature="class#LikelihoodCalculationType#0;class#Parameters#0" expanded="false" />
+                <element signature="class#LogFile#0;class#Parameters#0" expanded="false" />
+                <element signature="class#Operator#0;class#Parameters#0" expanded="false" />
+                <element signature="class#OperatorSelection#0;class#Parameters#0" expanded="false" />
+                <element signature="method#OperatorSelection#0;class#OperatorSelection#0;class#Parameters#0" expanded="false" />
+                <element signature="class#Optimization#0;class#Parameters#0" expanded="false" />
+                <element signature="method#Optimization#0;class#Optimization#0;class#Parameters#0" expanded="false" />
+                <element signature="class#OptimizationAlgorithm#0;class#Parameters#0" expanded="false" />
+                <element signature="class#OptimizationTarget#0;class#Parameters#0" expanded="false" />
+                <element signature="class#ReplicatesStopCondition#0;class#Parameters#0" expanded="false" />
+                <element signature="method#ReplicatesStopCondition#0;class#ReplicatesStopCondition#0;class#Parameters#0" expanded="false" />
+                <element signature="class#SACooling#0;class#Parameters#0" expanded="false" />
+                <element signature="method#SACooling#0;class#SACooling#0;class#Parameters#0" expanded="false" />
+                <element signature="class#SADeltaL#0;class#Parameters#0" expanded="false" />
+                <element signature="method#SADeltaL#0;class#SADeltaL#0;class#Parameters#0" expanded="false" />
+                <element signature="class#SAReheating#0;class#Parameters#0" expanded="false" />
+                <element signature="method#SAReheating#0;class#SAReheating#0;class#Parameters#0" expanded="false" />
+                <element signature="class#SASchedule#0;class#Parameters#0" expanded="false" />
+                <element signature="class#CodonDomainDefinition#0;class#Parameters#0" expanded="false" />
+                <element signature="method#CodonDomainDefinition#0;class#CodonDomainDefinition#0;class#Parameters#0" expanded="false" />
+                <element signature="method#isPositionInCodonDomain#0;class#CodonDomainDefinition#0;class#Parameters#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6745">
+              <caret line="797" column="0" selection-start-line="797" selection-start-column="0" selection-end-line="797" selection-end-column="0" />
+              <folding>
+                <element signature="e#12133#12167#0" expanded="false" />
+                <element signature="method#cloneWithConsensus#0;class#Tree#0" expanded="false" />
+                <element signature="e#15717#15751#0" expanded="false" />
+                <element signature="method#root#0;class#Tree#0" expanded="false" />
+                <element signature="method#root#1;class#Tree#0" expanded="false" />
+                <element signature="method#setAccessNodeToOutgroupRoot#0;class#Tree#0" expanded="false" />
+                <element signature="method#isCompatibleWithDataset#0;class#Tree#0" expanded="false" />
+                <element signature="method#isCompatibleWithOutgroup#0;class#Tree#0" expanded="false" />
+                <element signature="method#setOutgroup#0;class#Tree#0" expanded="false" />
+                <element signature="method#labelizeTree#0;class#Tree#0" expanded="false" />
+                <element signature="method#unroot#0;class#Tree#0" expanded="false" />
+                <element signature="method#addNode#0;class#Tree#0" expanded="false" />
+                <element signature="method#getBranches#0;class#Tree#0" expanded="false" />
+                <element signature="method#getBranch#0;class#Tree#0" expanded="false" />
+                <element signature="method#initLikelihood#0;class#Tree#0" expanded="false" />
+                <element signature="method#initParsimony#0;class#Tree#0" expanded="false" />
+                <element signature="method#createOneTimeGraphicMemeory#0;class#Tree#0" expanded="false" />
+                <element signature="method#Evaluation#0;class#Tree#0" expanded="false" />
+                <element signature="e#30793#30794#0" expanded="true" />
+                <element signature="e#30844#30845#0" expanded="true" />
+                <element signature="e#30887#30888#0" expanded="true" />
+                <element signature="e#30935#30936#0" expanded="true" />
+                <element signature="method#markNodeToReEvaluate#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationModel#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationStateFrequencies#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationRateParameter#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationRate#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationDistribution#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationDistributionSubsets#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationDistributionShape#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationPInv#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationAmongPartitionRate#0;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationAmongPartitionRate#1;class#Tree#0" expanded="false" />
+                <element signature="method#setEvaluationParameters#0;class#Tree#0" expanded="false" />
+                <element signature="method#getEvaluationStateFrequencies#0;class#Tree#0" expanded="false" />
+                <element signature="method#getEvaluationRateParameters#0;class#Tree#0" expanded="false" />
+                <element signature="method#computeLevelAndNbrOfLeaves#0;class#Tree#0" expanded="false" />
+                <element signature="method#fireInodeStructureChange#0;class#Tree#0" expanded="false" />
+                <element signature="method#getLevel#0;class#Tree#0" expanded="false" />
+                <element signature="method#getNodesInLevels#0;class#Tree#0" expanded="false" />
+                <element signature="method#getNumOfLeavesUnder#0;class#Tree#0" expanded="false" />
+                <element signature="method#getAllNodesUnderNeighbor#0;class#Tree#0" expanded="false" />
+                <element signature="method#getPreorderTraversal#0;class#Tree#0" expanded="false" />
+                <element signature="method#getPostorderTraversal#0;class#Tree#0" expanded="false" />
+                <element signature="method#toNewick#0;class#Tree#0" expanded="false" />
+                <element signature="method#toNewickLine#0;class#Tree#0" expanded="false" />
+                <element signature="method#toNewickLineWithML#0;class#Tree#0" expanded="false" />
+                <element signature="method#getEvaluationString#0;class#Tree#0" expanded="false" />
+                <element signature="method#parseEvaluationString#0;class#Tree#0" expanded="false" />
+                <element signature="method#generateNewick#0;class#Tree#0" expanded="false" />
+                <element signature="method#getAncestralStates#0;class#Tree#0" expanded="false" />
+                <element signature="method#getMostProbableAncestralSequence#0;class#Tree#0" expanded="false" />
+                <element signature="method#printAncestralStates#0;class#Tree#0" expanded="false" />
+                <element signature="e#66210#66211#0" expanded="true" />
+                <element signature="e#66248#66249#0" expanded="true" />
+                <element signature="e#66286#66287#0" expanded="true" />
+                <element signature="e#66323#66324#0" expanded="true" />
+                <element signature="e#66366#66367#0" expanded="true" />
+                <element signature="e#66400#66401#0" expanded="true" />
+                <element signature="e#66442#66443#0" expanded="true" />
+                <element signature="e#66476#66477#0" expanded="true" />
+                <element signature="class#Status#0;class#Tree#0" expanded="false" />
+                <element signature="method#Status#0;class#Status#0;class#Tree#0" expanded="false" />
+                <element signature="class#InOutMap#0;class#Tree#0" expanded="false" />
+                <element signature="method#InOutMap#0;class#InOutMap#0;class#Tree#0" expanded="false" />
+                <element signature="method#getNeighborsStatus#0;class#InOutMap#0;class#Tree#0" expanded="false" />
+                <element signature="method#assignGroup#0;class#InOutMap#0;class#Tree#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchConsoleMonitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/SearchConsoleMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="319" column="31" selection-start-line="319" selection-start-column="31" selection-end-line="319" selection-end-column="31" />
+              <folding>
+                <element signature="method#end#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#getBestLikelihood#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printStartingTrees#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printTreeBeforeOperator#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printOperatorInfos#1;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printTreeAfterOperator#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printOperatorFrequenciesUpdate#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printOperatorFrequenciesUpdate#1;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printOperatorStatistics#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printDetailsHC#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printDetailsSA#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printDetailsGA#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printDetailsGA#1;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printDetailsCP#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printDetailsCP#1;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printDetailsCP#2;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printTreesHC#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printTreesSA#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printTreesGA#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printTreesCP#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#printConsensus#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="e#11822#11823#0" expanded="true" />
+                <element signature="e#11881#11882#0" expanded="true" />
+                <element signature="method#showCurrentCoolingSchedule#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showCurrentTemperature#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showCurrentMRE#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showCurrentTree#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showEvaluations#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showReplicate#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStageCPMetapopulation#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStageDistanceMatrix#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStageGAPopulation#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStageOptimization#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStageSATemperature#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStageHCRestart#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStageSearchProgress#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStageSearchStart#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStageStartingTree#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showStartingTree#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#showAutoStopDone#0;class#SearchConsoleMonitor#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintMonitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/PrintMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="752" column="64" selection-start-line="752" selection-start-column="64" selection-end-line="752" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cern/colt/matrix/linalg/Smp.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/bio/program/blast2html/AbstractAlignmentStyler.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/bio/program/sax/blastxml/StAXFeatureHandler.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/bio/program/scf/SCF.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/bio/program/ssaha/HitMerger.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/bio/program/xff/XFFFeatureSetHandler.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/bio/proteomics/Protease.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/bio/seq/FeatureFilter.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/bio/symbol/LocationComparator.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/ontology/Ontology.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/utils/ChangeType.java" />
+        <option value="$PROJECT_DIR$/src/org/biojava/utils/JDBCPooledDataSource.java" />
+        <option value="$PROJECT_DIR$/src/cern/colt/matrix/linalg/SmpBlas.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/Charset.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/ComputeDistancesFrame.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/utilities/Tools.java" />
+        <option value="$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/CharactersBlock.java" />
+        <option value="$PROJECT_DIR$/src/org/biojavax/bio/seq/io/UniProtFormat.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/io/metapigablock/MetapigaBlockParser.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/heuristics/GeneticAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/trees/AncestralStatesPanel.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/trees/ConsensusNode.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/AboutBox.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/ProgressHandling.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/io/FastaReader.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/io/NexusWriter.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/WaitingLogo.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/trees/TreeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/phylip/PHYLIPFileFormat.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/monitors/OptimizationMonitor.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/optimization/GA.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/optimization/Powell.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/CodonCharactersBlock.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/RateParameter1.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/RateParameter.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/data/DataType.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/data/EmpiricalModels.java" />
+        <option value="$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/MetapigaBlockParser.java" />
+        <option value="$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/BatchBlockParser.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/likelihood/Likelihood.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/io/NexusReader.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/parsimony/parsimony.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/trees/Node.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/trees/Operators.java" />
+        <option value="$PROJECT_DIR$/../../../metapiga源码/MetaPIGA_source_from_Procyon/metapiga/modelization/Dataset.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/Dataset.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/parsimony/Parsimony.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/MetaPIGA.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/trees/Tree.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/parameters/Parameters.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruning.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metapiga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metapiga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trees" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metapiga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parameters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metapiga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="optimization" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metapiga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="monitors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metaGA1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="metapiga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="heuristics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jsr305-1.3.7.jar!/" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\XMU\metaGA\metaGA1\metaGA1\src\metapiga\io\metapigablock" />
+      <recent name="C:\Users\zhangmz1\IdeaProjects\metaGA1\src\metapiga" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="metapiga.MetaPIGA" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="noupdate nogui &quot;C:\Program Files\Metapiga\Datasets\015x1314 - mp1.nex&quot;" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="metaGA1" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="metapiga.MetaPIGA" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="noupdate nogui &quot;D:\Program Files\Metapiga\Datasets\allouput.fasta&quot; weights=0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="metaGA1" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="197c5286-0999-4060-98ed-9b84a49f3b2d" name="Default" comment="" />
+      <created>1477378360240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477378360240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="754" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5024155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27938932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2962963" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30228758" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29951692" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30228758" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5024155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27996966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29951692" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2962963" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="256" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/ConsensusMRE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/TreeSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/NexusFileFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="245" column="64" selection-start-line="245" selection-start-column="64" selection-end-line="245" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/CharactersBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="141" column="34" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/CharactersBlockParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="333" column="50" selection-start-line="333" selection-start-column="50" selection-end-line="333" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/Heuristic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/index.jsp" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/listSong.jsp" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Set.java" />
+    <entry file="file://$PROJECT_DIR$/src/metapiga/parameters/CharsetsContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="229" column="40" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/BitSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/ConsensusNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/SequenceArrays4Dimension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/data/DataType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="37" column="51" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/LikelihoodFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/SequenceArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/GeneticAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Map.java" />
+    <entry file="file://$PROJECT_DIR$/src/metapiga/io/NexusWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="149" column="61" selection-start-line="149" selection-start-column="61" selection-end-line="149" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/utilities/Tools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8246">
+          <caret line="478" column="61" selection-start-line="478" selection-start-column="61" selection-end-line="478" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/io/NewickReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/swing/DefaultListModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/metapiga/io/FastaReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/io/NexusReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4769">
+          <caret line="286" column="36" selection-start-line="286" selection-start-column="36" selection-end-line="286" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Branch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="246" column="19" selection-start-line="246" selection-start-column="19" selection-end-line="246" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/exceptions/NullAncestorException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Consensus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="644" column="35" selection-start-line="644" selection-start-column="35" selection-end-line="644" selection-end-column="35" />
+          <folding>
+            <element signature="method#Consensus#1;class#Consensus#0" expanded="false" />
+            <element signature="method#putBiPartitionInBranches#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getBiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#putBiPartitionExistInTree#0;class#Consensus#0" expanded="false" />
+            <element signature="method#isBiPartitionExistsInTree#0;class#Consensus#0" expanded="false" />
+            <element signature="method#setConsensusType#0;class#Consensus#0" expanded="false" />
+            <element signature="method#isInConsensus#0;class#Consensus#0" expanded="false" />
+            <element signature="method#addBiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getConsensusTree#0;class#Consensus#0" expanded="false" />
+            <element signature="method#buildConsensusTree#0;class#Consensus#0" expanded="false" />
+            <element signature="method#showPartitions#0;class#Consensus#0" expanded="false" />
+            <element signature="method#showConsensus#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getConsensusCoverage#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getNNIValidCandidates#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getSPRValidTargets#0;class#Consensus#0" expanded="false" />
+            <element signature="method#buildSPRValidTargets#0;class#Consensus#0" expanded="false" />
+            <element signature="method#acceptTXS#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getTXSValidCandidates#0;class#Consensus#0" expanded="false" />
+            <element signature="method#acceptSTS#0;class#Consensus#0" expanded="false" />
+            <element signature="e#27371#27377#0" expanded="false" />
+            <element signature="e#28164#28170#0" expanded="false" />
+            <element signature="method#BiPartition#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#BiPartition#2;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#compareTo#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#toTaxa#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getTaxa#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#equals#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#hashCode#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#isIncludedIn#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#isCompatible#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getSmallestPartition#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getBiggestPartition#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#hasOnSamePartition#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#isIncludedIn#1;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#complement#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="method#mirror#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
+            <element signature="class#TaxaSet#0;class#Consensus#0" expanded="false" />
+            <element signature="method#TaxaSet#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
+            <element signature="method#TaxaSet#1;class#TaxaSet#0;class#Consensus#0" expanded="false" />
+            <element signature="method#toString#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
+            <element signature="method#getTaxas#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
+            <element signature="method#isIncludedIn#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
+            <element signature="method#complement#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
+            <element signature="method#keepTaxas#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
+            <element signature="method#access$4#0;class#Consensus#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../metapiga源码/MetaPIGA_source_from_Procyon/metapiga/modelization/Dataset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="1019" column="0" selection-start-line="1019" selection-start-column="0" selection-end-line="1019" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/LikelihoodClassic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/ByteArrayOutputStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/ObjectOutputStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Map.java" />
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/Likelihood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="500" column="4" selection-start-line="500" selection-start-column="4" selection-end-line="500" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/Dataset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16834">
+          <caret line="958" column="27" selection-start-line="958" selection-start-column="20" selection-end-line="958" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/parsimony/Parsimony.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/data/DNA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Operators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4275">
+          <caret line="492" column="24" selection-start-line="492" selection-start-column="24" selection-end-line="492" selection-end-column="24" />
+          <folding>
+            <element signature="method#Operators#0;class#Operators#0" expanded="false" />
+            <element signature="method#getOperatorUse#0;class#Operators#0" expanded="false" />
+            <element signature="method#addCancellationByConsensus#0;class#Operators#0" expanded="false" />
+            <element signature="method#getCancellationsByConsensus#0;class#Operators#0" expanded="false" />
+            <element signature="method#nextOperator#0;class#Operators#0" expanded="false" />
+            <element signature="method#updateFrequencies#0;class#Operators#0" expanded="false" />
+            <element signature="method#printStatistics#0;class#Operators#0" expanded="false" />
+            <element signature="method#mutateTree#1;class#Operators#0" expanded="false" />
+            <element signature="method#mutateTree#2;class#Operators#0" expanded="false" />
+            <element signature="method#casualMutateTree#0;class#Operators#0" expanded="false" />
+            <element signature="method#NNI#0;class#Operators#0" expanded="false" />
+            <element signature="method#TXS#1;class#Operators#0" expanded="false" />
+            <element signature="method#STS#0;class#Operators#0" expanded="false" />
+            <element signature="method#STS#1;class#Operators#0" expanded="false" />
+            <element signature="method#RPM#0;class#Operators#0" expanded="false" />
+            <element signature="method#GDM#0;class#Operators#0" expanded="false" />
+            <element signature="method#PIM#0;class#Operators#0" expanded="false" />
+            <element signature="method#APRM#0;class#Operators#0" expanded="false" />
+            <element signature="method#getSPRValidTargets#0;class#Operators#0" expanded="false" />
+            <element signature="method#buildSPRValidTargets#0;class#Operators#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/SearchConsole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6745">
+          <caret line="797" column="0" selection-start-line="797" selection-start-column="0" selection-end-line="797" selection-end-column="0" />
+          <folding>
+            <element signature="e#12133#12167#0" expanded="false" />
+            <element signature="method#cloneWithConsensus#0;class#Tree#0" expanded="false" />
+            <element signature="e#15717#15751#0" expanded="false" />
+            <element signature="method#root#0;class#Tree#0" expanded="false" />
+            <element signature="method#root#1;class#Tree#0" expanded="false" />
+            <element signature="method#setAccessNodeToOutgroupRoot#0;class#Tree#0" expanded="false" />
+            <element signature="method#isCompatibleWithDataset#0;class#Tree#0" expanded="false" />
+            <element signature="method#isCompatibleWithOutgroup#0;class#Tree#0" expanded="false" />
+            <element signature="method#setOutgroup#0;class#Tree#0" expanded="false" />
+            <element signature="method#labelizeTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#unroot#0;class#Tree#0" expanded="false" />
+            <element signature="method#addNode#0;class#Tree#0" expanded="false" />
+            <element signature="method#getBranches#0;class#Tree#0" expanded="false" />
+            <element signature="method#getBranch#0;class#Tree#0" expanded="false" />
+            <element signature="method#initLikelihood#0;class#Tree#0" expanded="false" />
+            <element signature="method#initParsimony#0;class#Tree#0" expanded="false" />
+            <element signature="method#createOneTimeGraphicMemeory#0;class#Tree#0" expanded="false" />
+            <element signature="method#Evaluation#0;class#Tree#0" expanded="false" />
+            <element signature="e#30793#30794#0" expanded="true" />
+            <element signature="e#30844#30845#0" expanded="true" />
+            <element signature="e#30887#30888#0" expanded="true" />
+            <element signature="e#30935#30936#0" expanded="true" />
+            <element signature="method#markNodeToReEvaluate#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationModel#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationStateFrequencies#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationRateParameter#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationRate#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationDistribution#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationDistributionSubsets#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationDistributionShape#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationPInv#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationAmongPartitionRate#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationAmongPartitionRate#1;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationParameters#0;class#Tree#0" expanded="false" />
+            <element signature="method#getEvaluationStateFrequencies#0;class#Tree#0" expanded="false" />
+            <element signature="method#getEvaluationRateParameters#0;class#Tree#0" expanded="false" />
+            <element signature="method#computeLevelAndNbrOfLeaves#0;class#Tree#0" expanded="false" />
+            <element signature="method#fireInodeStructureChange#0;class#Tree#0" expanded="false" />
+            <element signature="method#getLevel#0;class#Tree#0" expanded="false" />
+            <element signature="method#getNodesInLevels#0;class#Tree#0" expanded="false" />
+            <element signature="method#getNumOfLeavesUnder#0;class#Tree#0" expanded="false" />
+            <element signature="method#getAllNodesUnderNeighbor#0;class#Tree#0" expanded="false" />
+            <element signature="method#getPreorderTraversal#0;class#Tree#0" expanded="false" />
+            <element signature="method#getPostorderTraversal#0;class#Tree#0" expanded="false" />
+            <element signature="method#toNewick#0;class#Tree#0" expanded="false" />
+            <element signature="method#toNewickLine#0;class#Tree#0" expanded="false" />
+            <element signature="method#toNewickLineWithML#0;class#Tree#0" expanded="false" />
+            <element signature="method#getEvaluationString#0;class#Tree#0" expanded="false" />
+            <element signature="method#parseEvaluationString#0;class#Tree#0" expanded="false" />
+            <element signature="method#generateNewick#0;class#Tree#0" expanded="false" />
+            <element signature="method#getAncestralStates#0;class#Tree#0" expanded="false" />
+            <element signature="method#getMostProbableAncestralSequence#0;class#Tree#0" expanded="false" />
+            <element signature="method#printAncestralStates#0;class#Tree#0" expanded="false" />
+            <element signature="e#66210#66211#0" expanded="true" />
+            <element signature="e#66248#66249#0" expanded="true" />
+            <element signature="e#66286#66287#0" expanded="true" />
+            <element signature="e#66323#66324#0" expanded="true" />
+            <element signature="e#66366#66367#0" expanded="true" />
+            <element signature="e#66400#66401#0" expanded="true" />
+            <element signature="e#66442#66443#0" expanded="true" />
+            <element signature="e#66476#66477#0" expanded="true" />
+            <element signature="class#Status#0;class#Tree#0" expanded="false" />
+            <element signature="method#Status#0;class#Status#0;class#Tree#0" expanded="false" />
+            <element signature="class#InOutMap#0;class#Tree#0" expanded="false" />
+            <element signature="method#InOutMap#0;class#InOutMap#0;class#Tree#0" expanded="false" />
+            <element signature="method#getNeighborsStatus#0;class#InOutMap#0;class#Tree#0" expanded="false" />
+            <element signature="method#assignGroup#0;class#InOutMap#0;class#Tree#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/parameters/Parameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="726" column="5" selection-start-line="726" selection-start-column="5" selection-end-line="726" selection-end-column="5" />
+          <folding>
+            <element signature="initializer##0;class#Parameters#0" expanded="false" />
+            <element signature="method#calibrateLastDomainPosition#0;class#Parameters#0" expanded="false" />
+            <element signature="method#resetDataset#0;class#Parameters#0" expanded="false" />
+            <element signature="method#resetAll#0;class#Parameters#0" expanded="false" />
+            <element signature="method#setParameters#0;class#Parameters#0" expanded="false" />
+            <element signature="method#getNJT#0;class#Parameters#0" expanded="false" />
+            <element signature="method#updateNJTParameters#0;class#Parameters#0" expanded="false" />
+            <element signature="method#assignPartitionColors#0;class#Parameters#0" expanded="false" />
+            <element signature="method#setRateParameter#0;class#Parameters#0" expanded="false" />
+            <element signature="method#setLikelihoodCalcualtionType#0;class#Parameters#0" expanded="false" />
+            <element signature="method#setEmpiricalRates#0;class#Parameters#0" expanded="false" />
+            <element signature="method#getRateParameters#0;class#Parameters#0" expanded="false" />
+            <element signature="method#setEvaluationDistributionShape#0;class#Parameters#0" expanded="false" />
+            <element signature="method#getEvaluationDistributionShape#0;class#Parameters#0" expanded="false" />
+            <element signature="method#setEvaluationPInv#0;class#Parameters#0" expanded="false" />
+            <element signature="method#getEvaluationPInv#0;class#Parameters#0" expanded="false" />
+            <element signature="method#hasPInv#0;class#Parameters#0" expanded="false" />
+            <element signature="method#setParameters#3;class#Parameters#0" expanded="false" />
+            <element signature="method#addStartingTrees#0;class#Parameters#0" expanded="false" />
+            <element signature="method#addStartingTrees#1;class#Parameters#0" expanded="false" />
+            <element signature="method#setStartingTrees#0;class#Parameters#0" expanded="false" />
+            <element signature="method#buildDataset#0;class#Parameters#0" expanded="false" />
+            <element signature="method#defineTransitionCodonTable#0;class#Parameters#0" expanded="false" />
+            <element signature="method#findStopAndAmbiguousCodons#0;class#Parameters#0" expanded="false" />
+            <element signature="method#checkParameters#0;class#Parameters#0" expanded="false" />
+            <element signature="method#hasManyReplicates#0;class#Parameters#0" expanded="false" />
+            <element signature="method#showNexusDataMatrix#0;class#Parameters#0" expanded="false" />
+            <element signature="method#showDataset#0;class#Parameters#0" expanded="false" />
+            <element signature="method#addSpacesToWeightValue#0;class#Parameters#0" expanded="false" />
+            <element signature="method#getModifiedDataBlock#0;class#Parameters#0" expanded="false" />
+            <element signature="method#getMetapigaBlock#0;class#Parameters#0" expanded="false" />
+            <element signature="method#writeTreeBlock#0;class#Parameters#0" expanded="false" />
+            <element signature="method#printParameters#0;class#Parameters#0" expanded="false" />
+            <element signature="method#duplicateButShareDataset#0;class#Parameters#0" expanded="false" />
+            <element signature="method#duplicate#0;class#Parameters#0" expanded="false" />
+            <element signature="method#applyParametersTo#0;class#Parameters#0" expanded="false" />
+            <element signature="method#translateToCodonsInRange#0;class#Parameters#0" expanded="false" />
+            <element signature="method#setCodonsInRange#0;class#Parameters#0" expanded="false" />
+            <element signature="method#revertCodons#0;class#Parameters#0" expanded="false" />
+            <element signature="method#applyParametersTo#1;class#Parameters#0" expanded="false" />
+            <element signature="method#isDatasetModified#0;class#Parameters#0" expanded="false" />
+            <element signature="method#getOptimizer#0;class#Parameters#0" expanded="false" />
+            <element signature="method#preparePtxFile#0;class#Parameters#0" expanded="false" />
+            <element signature="method#getCodonTaransitionTableType#0;class#Parameters#0" expanded="false" />
+            <element signature="method#setCodonTransitionTable#0;class#Parameters#0" expanded="false" />
+            <element signature="method#access$1#0;class#Parameters#0" expanded="false" />
+            <element signature="class#FileFormat#0;class#Parameters#0" expanded="false" />
+            <element signature="method#FileFormat#0;class#FileFormat#0;class#Parameters#0" expanded="false" />
+            <element signature="class#ColumnRemoval#0;class#Parameters#0" expanded="false" />
+            <element signature="method#ColumnRemoval#0;class#ColumnRemoval#0;class#Parameters#0" expanded="false" />
+            <element signature="class#DistanceModel#0;class#Parameters#0" expanded="false" />
+            <element signature="method#DistanceModel#0;class#DistanceModel#0;class#Parameters#0" expanded="false" />
+            <element signature="class#StartingTreeDistribution#0;class#Parameters#0" expanded="false" />
+            <element signature="method#StartingTreeDistribution#0;class#StartingTreeDistribution#0;class#Parameters#0" expanded="false" />
+            <element signature="class#StartingTreeGeneration#0;class#Parameters#0" expanded="false" />
+            <element signature="class#StartingTreePInvPi#0;class#Parameters#0" expanded="false" />
+            <element signature="method#StartingTreePInvPi#0;class#StartingTreePInvPi#0;class#Parameters#0" expanded="false" />
+            <element signature="class#CPConsensus#0;class#Parameters#0" expanded="false" />
+            <element signature="method#CPConsensus#0;class#CPConsensus#0;class#Parameters#0" expanded="false" />
+            <element signature="class#CPOperator#0;class#Parameters#0" expanded="false" />
+            <element signature="method#CPOperator#0;class#CPOperator#0;class#Parameters#0" expanded="false" />
+            <element signature="class#CPOperatorChange#0;class#Parameters#0" expanded="false" />
+            <element signature="method#CPOperatorChange#0;class#CPOperatorChange#0;class#Parameters#0" expanded="false" />
+            <element signature="class#CPSelection#0;class#Parameters#0" expanded="false" />
+            <element signature="method#CPSelection#0;class#CPSelection#0;class#Parameters#0" expanded="false" />
+            <element signature="class#CodonTransitionTableType#0;class#Parameters#0" expanded="false" />
+            <element signature="class#EvaluationDistribution#0;class#Parameters#0" expanded="false" />
+            <element signature="method#EvaluationDistribution#0;class#EvaluationDistribution#0;class#Parameters#0" expanded="false" />
+            <element signature="class#EvaluationModel#0;class#Parameters#0" expanded="false" />
+            <element signature="method#EvaluationModel#0;class#EvaluationModel#0;class#Parameters#0" expanded="false" />
+            <element signature="method#availableModels#0;class#EvaluationModel#0;class#Parameters#0" expanded="false" />
+            <element signature="class#EvaluationRate#0;class#Parameters#0" expanded="false" />
+            <element signature="method#EvaluationRate#0;class#EvaluationRate#0;class#Parameters#0" expanded="false" />
+            <element signature="class#EvaluationStateFrequencies#0;class#Parameters#0" expanded="false" />
+            <element signature="method#EvaluationStateFrequencies#0;class#EvaluationStateFrequencies#0;class#Parameters#0" expanded="false" />
+            <element signature="class#GAOperatorChange#0;class#Parameters#0" expanded="false" />
+            <element signature="method#GAOperatorChange#0;class#GAOperatorChange#0;class#Parameters#0" expanded="false" />
+            <element signature="class#GASelection#0;class#Parameters#0" expanded="false" />
+            <element signature="method#GASelection#0;class#GASelection#0;class#Parameters#0" expanded="false" />
+            <element signature="class#Heuristic#0;class#Parameters#0" expanded="false" />
+            <element signature="method#HeuristicStopCondition#0;class#HeuristicStopCondition#0;class#Parameters#0" expanded="false" />
+            <element signature="class#LikelihoodCalculationType#0;class#Parameters#0" expanded="false" />
+            <element signature="class#LogFile#0;class#Parameters#0" expanded="false" />
+            <element signature="class#Operator#0;class#Parameters#0" expanded="false" />
+            <element signature="class#OperatorSelection#0;class#Parameters#0" expanded="false" />
+            <element signature="method#OperatorSelection#0;class#OperatorSelection#0;class#Parameters#0" expanded="false" />
+            <element signature="class#Optimization#0;class#Parameters#0" expanded="false" />
+            <element signature="method#Optimization#0;class#Optimization#0;class#Parameters#0" expanded="false" />
+            <element signature="class#OptimizationAlgorithm#0;class#Parameters#0" expanded="false" />
+            <element signature="class#OptimizationTarget#0;class#Parameters#0" expanded="false" />
+            <element signature="class#ReplicatesStopCondition#0;class#Parameters#0" expanded="false" />
+            <element signature="method#ReplicatesStopCondition#0;class#ReplicatesStopCondition#0;class#Parameters#0" expanded="false" />
+            <element signature="class#SACooling#0;class#Parameters#0" expanded="false" />
+            <element signature="method#SACooling#0;class#SACooling#0;class#Parameters#0" expanded="false" />
+            <element signature="class#SADeltaL#0;class#Parameters#0" expanded="false" />
+            <element signature="method#SADeltaL#0;class#SADeltaL#0;class#Parameters#0" expanded="false" />
+            <element signature="class#SAReheating#0;class#Parameters#0" expanded="false" />
+            <element signature="method#SAReheating#0;class#SAReheating#0;class#Parameters#0" expanded="false" />
+            <element signature="class#SASchedule#0;class#Parameters#0" expanded="false" />
+            <element signature="class#CodonDomainDefinition#0;class#Parameters#0" expanded="false" />
+            <element signature="method#CodonDomainDefinition#0;class#CodonDomainDefinition#0;class#Parameters#0" expanded="false" />
+            <element signature="method#isPositionInCodonDomain#0;class#CodonDomainDefinition#0;class#Parameters#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/MetaPIGA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="144" column="25" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="25" />
+          <folding>
+            <element signature="method#loadDataFile#0;class#MetaPIGA#0" expanded="false" />
+            <element signature="e#5638#5673#0" expanded="false" />
+            <element signature="e#5921#5927#0" expanded="true" />
+            <element signature="class#UI#0;class#MetaPIGA#0" expanded="false" />
+            <element signature="method#UI#0;class#UI#0;class#MetaPIGA#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/SearchConsoleMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="319" column="31" selection-start-line="319" selection-start-column="31" selection-end-line="319" selection-end-column="31" />
+          <folding>
+            <element signature="method#end#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#getBestLikelihood#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printStartingTrees#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printTreeBeforeOperator#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printOperatorInfos#1;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printTreeAfterOperator#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printOperatorFrequenciesUpdate#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printOperatorFrequenciesUpdate#1;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printOperatorStatistics#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printDetailsHC#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printDetailsSA#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printDetailsGA#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printDetailsGA#1;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printDetailsCP#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printDetailsCP#1;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printDetailsCP#2;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printTreesHC#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printTreesSA#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printTreesGA#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printTreesCP#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#printConsensus#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="e#11822#11823#0" expanded="true" />
+            <element signature="e#11881#11882#0" expanded="true" />
+            <element signature="method#showCurrentCoolingSchedule#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showCurrentTemperature#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showCurrentMRE#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showCurrentTree#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showEvaluations#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showReplicate#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStageCPMetapopulation#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStageDistanceMatrix#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStageGAPopulation#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStageOptimization#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStageSATemperature#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStageHCRestart#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStageSearchProgress#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStageSearchStart#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStageStartingTree#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showStartingTree#0;class#SearchConsoleMonitor#0" expanded="false" />
+            <element signature="method#showAutoStopDone#0;class#SearchConsoleMonitor#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/PrintMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="752" column="64" selection-start-line="752" selection-start-column="64" selection-end-line="752" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="333" column="25" selection-start-line="333" selection-start-column="25" selection-end-line="333" selection-end-column="25" />
+          <folding>
+            <element signature="method#setStartingTrees#0;class#ConsensusPruning#0" expanded="false" />
+            <element signature="method#hasToContinue#0;class#ConsensusPruning#0" expanded="false" />
+            <element signature="method#putBestIndividualFirst#0;class#ConsensusPruning#0" expanded="false" />
+            <element signature="method#IterateGA#0;class#IterateGA#0;class#ConsensusPruning#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>metaGA1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jsr305-1.3.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
