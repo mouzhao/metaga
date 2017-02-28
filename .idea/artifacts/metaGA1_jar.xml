@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="metaGA1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/metaGA1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="metaGA1.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="metaGA1" />
+      </element>
+      <element id="library" level="project" name="Jama-1.0.3" />
+      <element id="library" level="project" name="commons-io-2.5" />
+      <element id="library" level="project" name="colt" />
+      <element id="library" level="project" name="jgraph-5.13.0.0" />
+      <element id="library" level="project" name="commons-dbcp-1.4" />
+      <element id="library" level="project" name="commons-logging-1.2" />
+      <element id="library" level="project" name="jsr305-1.3.7" />
+      <element id="library" level="project" name="commons-discovery-0.5" />
+      <element id="library" level="project" name="biojava-phylo-5.0.0-alpha6" />
+      <element id="library" level="project" name="mockito-all-2.0.2-beta" />
+      <element id="library" level="project" name="junit-4.8" />
+      <element id="library" level="project" name="axis" />
+      <element id="library" level="project" name="guava-jdk5-14.0.1" />
+      <element id="library" level="project" name="commons-collections-3.2.2" />
+      <element id="library" level="project" name="hamcrest-core-1.2" />
+      <element id="library" level="project" name="commons-pool-1.6" />
+    </root>
+  </artifact>
+</component>

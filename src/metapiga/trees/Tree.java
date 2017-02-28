@@ -771,7 +771,9 @@ public class Tree implements Cloneable
         Evaluation();
         System.out.println("likelihoodValue:"+(-this.likelihoodValue));
         System.out.println("parsimonyValue:"+this.parsimonyValue);
-        return (weight * (this.likelihoodValue/this.MLMax) + (1-weight) * (this.parsimonyValue/this.MPMax));
+        double value = (weight * (this.likelihoodValue/this.MLMax)) + ((1-weight) * (this.parsimonyValue/this.MPMax));
+        //double value = (weight * this.likelihoodValue) + (1-weight) * (this.parsimonyValue);
+        return value;
     }
     
     public void deleteLikelihoodComputation() {
@@ -1570,6 +1572,13 @@ public class Tree implements Cloneable
         this.MLMax = MLMax;
     }
 
+    public void setParsimonyValue(int parsimonyValue) {
+        this.parsimonyValue = parsimonyValue;
+    }
+
+    public void setLikelihoodValue(double likelihoodValue) {
+        this.likelihoodValue = likelihoodValue;
+    }
 
     private enum Status
     {

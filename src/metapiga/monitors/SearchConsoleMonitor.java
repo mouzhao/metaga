@@ -45,6 +45,7 @@ public class SearchConsoleMonitor implements Monitor
     final PrintMonitor print;
     private final ProgressHandling progress;
     private final int progressId;
+    private int paretoSetSize;
     
     public SearchConsoleMonitor(final SearchConsole parent, final ProgressHandling progress, final int progressId, final Parameters parameters, final String runLabel) {
         this.maxSteps = 0;
@@ -127,8 +128,11 @@ public class SearchConsoleMonitor implements Monitor
             if (this.trackDataMatrix()) {
                 this.printDataMatrix();
             }
-            while ((this.currentReplicate = this.parent.getNextReplicate()) > 0) {
+            double weight = 0;
+             while ((this.currentReplicate = this.parent.getNextReplicate()) > 0) {
+            //while ( this.paretoSetSize<9 ){
                 this.print.initLogFiles(this.currentReplicate);
+                this.parameters.moweight = weight;
                 switch (this.parameters.heuristic) {
                     case GA: {
                         this.H = new GeneticAlgorithm(this.parameters, this);
@@ -141,6 +145,11 @@ public class SearchConsoleMonitor implements Monitor
                 }
                 (this.thread = new Thread(this.H, String.valueOf(this.H.getName(true)) + "-Rep-" + this.currentReplicate)).start();
                 this.thread.join();
+                if(weight >= 1){
+                    weight = 0;
+                }else {
+                    weight += 0.1;
+                }
                 try {
                     this.print.closeOutputFiles();
                 }
@@ -174,7 +183,7 @@ public class SearchConsoleMonitor implements Monitor
         for (final Tree tree : solutionTrees) {
             tree.deleteLikelihoodComputation();
         }
-        this.parent.addSolutionTree(solutionTrees);
+         this.paretoSetSize = this.parent.addSolutionTree(solutionTrees);
     }
     
     @Override

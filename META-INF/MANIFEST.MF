@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: Jama-1.0.3.jar commons-io-2.5.jar colt.jar jgraph-5.13.0.0
+ .jar jgrapht-core-1.0.0.jar commons-dbcp-1.4.jar commons-logging-1.2.
+ jar jsr305-1.3.7.jar commons-discovery-0.5.jar biojava-phylo-5.0.0-al
+ pha6.jar mockito-all-2.0.2-beta.jar junit-4.8.jar axis.jar guava-jdk5
+ -14.0.1.jar commons-collections-3.2.2.jar hamcrest-core-1.2.jar commo
+ ns-pool-1.6.jar
+Main-Class: metapiga.MetaPIGA
+

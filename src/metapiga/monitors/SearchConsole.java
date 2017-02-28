@@ -4,14 +4,16 @@
 
 package metapiga.monitors;
 
-import java.util.Iterator;
+import java.util.*;
 import java.io.Writer;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.awt.Component;
 import javax.swing.JOptionPane;
-import java.util.Collection;
+
 import metapiga.trees.Consensus;
+import metapiga.trees.exceptions.NullAncestorException;
+import metapiga.trees.exceptions.UnrootableTreeException;
 import metapiga.utilities.Tools;
 import java.text.DateFormat;
 import java.util.concurrent.TimeUnit;
@@ -19,14 +21,14 @@ import java.util.concurrent.Executors;
 import metapiga.MetaPIGA;
 import java.io.File;
 import java.text.SimpleDateFormat;
-import java.util.Vector;
+
 import metapiga.trees.ConsensusMRE;
 import java.util.concurrent.CountDownLatch;
 import metapiga.ProgressHandling;
 import metapiga.trees.Tree;
-import java.util.List;
 import metapiga.parameters.Parameters;
 import javax.swing.DefaultListModel;
+import javax.swing.text.BadLocationException;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.ExecutorService;
 
@@ -115,22 +117,22 @@ public class SearchConsole implements Runnable
             this.showText("\nAll replicates done in " + Tools.doubletoString((System.currentTimeMillis() - startTime) / 60000.0, 2) + " minutes");
         }
         Tree consensusTree = null;
-        if (this.currentParameters.hasManyReplicates()) {
-            try {
-                final Consensus consensus = new Consensus(this.allSolutionTrees, this.currentParameters.dataset);
-                consensusTree = consensus.getConsensusTree(this.currentParameters);
-                if (this.currentParameters.optimization == Parameters.Optimization.CONSENSUSTREE) {
-                    this.showText("\nOptimizing final consensus tree\n");
-                    final Tree optimizedConsensusTree = this.currentParameters.getOptimizer(consensusTree).getOptimizedTree();
-                    consensusTree.cloneWithConsensus(optimizedConsensusTree);
-                }
-            }
-            catch (Exception ex) {
-                JOptionPane.showMessageDialog(null, Tools.getErrorPanel("Cannot display result tree(s)", ex), "Consensus tree Error", 0);
-                System.out.println("Cannot build consensus tree : " + ex.getMessage());
-                ex.printStackTrace();
-            }
-        }
+//        if (this.currentParameters.hasManyReplicates()) {
+//            try {
+//                final Consensus consensus = new Consensus(this.allSolutionTrees, this.currentParameters.dataset);
+//                consensusTree = consensus.getConsensusTree(this.currentParameters);
+//                if (this.currentParameters.optimization == Parameters.Optimization.CONSENSUSTREE) {
+//                    this.showText("\nOptimizing final consensus tree\n");
+//                    final Tree optimizedConsensusTree = this.currentParameters.getOptimizer(consensusTree).getOptimizedTree();
+//                    consensusTree.cloneWithConsensus(optimizedConsensusTree);
+//                }
+//            }
+//            catch (Exception ex) {
+//                JOptionPane.showMessageDialog(null, Tools.getErrorPanel("Cannot display result tree(s)", ex), "Consensus tree Error", 0);
+//                System.out.println("Cannot build consensus tree : " + ex.getMessage());
+//                ex.printStackTrace();
+//            }
+//        }
         if (consensusTree != null) {
             consensusTree.setName(String.valueOf(this.runLabel) + " - " + consensusTree.getName());
         }
@@ -181,11 +183,65 @@ public class SearchConsole implements Runnable
         System.gc();
     }
     
-    public void addSolutionTree(final List<Tree> trees) {
-        this.allSolutionTrees.addAll(trees);
+    public int addSolutionTree(final List<Tree> trees) {
+        //TODO 增加非支配判断
+        //1.满足  不被其他解支配 条件，才能被加入
+        //2. 加入后删除集合中被它支配的解
+        int result=1;
+        List<Tree> dominated;
+        for(Tree newtree : trees){
+            if(this.allSolutionTrees.isEmpty()){
+                this.allSolutionTrees.add(newtree);
+            }else{
+                dominated = new ArrayList<>();
+                for(Tree tree : this.allSolutionTrees){
+                    result = paretoSolve(tree,newtree);
+                    if(result == 1) break;
+                    else if(result == 2){
+                        dominated.add(tree);
+                    }else {
+                        continue;
+                    }
+                }
+                if(result != 1){
+                    this.allSolutionTrees.add(newtree);
+                    if(!dominated.isEmpty()){
+                        this.allSolutionTrees.removeAll(dominated);
+                    }
+
+                }
+                dominated.clear();
+            }
+//            try {
+//                String newick = newtree.toNewickLineWithML(newtree.getName(),true,true);
+//                String aa = newick;
+//            } catch (UnrootableTreeException e) {
+//                e.printStackTrace();
+//            } catch (NullAncestorException e) {
+//                e.printStackTrace();
+//            } catch (BadLocationException e) {
+//                e.printStackTrace();
+//            }
+            if(this.allSolutionTrees.size() == 10) break;
+        }
+
+        //this.allSolutionTrees.addAll(trees);
         this.showReplicate();
+        return this.allSolutionTrees.size();
     }
-    
+
+    public int paretoSolve(Tree oldtree,Tree newtree){
+        if((oldtree.getLikelihoodValue()<newtree.getLikelihoodValue() && oldtree.getParsimonyValue()<=newtree.getParsimonyValue()) ||
+                (oldtree.getLikelihoodValue()<=newtree.getLikelihoodValue() && oldtree.getParsimonyValue()<newtree.getParsimonyValue())){
+           return 1; //new 被 old 支配
+        } else if((oldtree.getLikelihoodValue()>newtree.getLikelihoodValue() && oldtree.getParsimonyValue()>=newtree.getParsimonyValue()) ||
+                (oldtree.getLikelihoodValue()>=newtree.getLikelihoodValue() && oldtree.getParsimonyValue()>newtree.getParsimonyValue())){
+            return 2; //old 被 new 支配
+        }else{
+            return 3; //互不支配
+        }
+    }
+
     public void endFromException(final Exception e) {
         e.printStackTrace();
         this.showText("\n Java exception : " + e.getCause() + " (" + e.getMessage() + ")");

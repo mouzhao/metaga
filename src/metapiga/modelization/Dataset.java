@@ -1011,5 +1011,9 @@ public class Dataset
             }
             return s;
         }
+
+        public int getDatasetMappingSize(){
+            return this.datasetMapping.size();
+        }
     }
 }

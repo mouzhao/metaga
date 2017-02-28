@@ -63,7 +63,7 @@ public class MetaPIGA
                 if(((Parameters)this.parameters.get(i)).cpPopNum < this.parameters.getSize()){
                     ((Parameters)this.parameters.get(i)).cpPopNum = this.parameters.getSize();
                 }
-                ((Parameters)this.parameters.get(i)).moweight = weights;
+                //((Parameters)this.parameters.get(i)).moweight = weights;
             }
             switch (ui) {
                 case CONSOLE: {

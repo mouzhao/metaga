@@ -1,7 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="metaGA1:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="197c5286-0999-4060-98ed-9b84a49f3b2d" name="Default" comment="" />
+    <list default="true" id="197c5286-0999-4060-98ed-9b84a49f3b2d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/Jama-1.0.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/axis.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/biojava-phylo-5.0.0-alpha6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/colt.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/commons-collections-3.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/commons-dbcp-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/commons-discovery-0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/commons-io-2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/commons-pool-1.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/guava-jdk5-14.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/hamcrest-core-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/jgraph-5.13.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/jgrapht-core-1.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/jsr305-1.3.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/junit-4.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/metaGA1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_bak_jar/mockito-all-2.0.2-beta.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/Jama-1.0.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/axis.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/biojava-phylo-5.0.0-alpha6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/colt.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/commons-collections-3.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/commons-dbcp-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/commons-discovery-0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/commons-io-2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/commons-pool-1.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/guava-jdk5-14.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/hamcrest-core-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/jgraph-5.13.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/jgrapht-core-1.0.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/jsr305-1.3.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/junit-4.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/metaGA1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/metaGA1_jar/mockito-all-2.0.2-beta.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/metaGA1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cp_bak.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/MetaPIGA.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/MetaPIGA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/ProgressHandling$1.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/ProgressHandling$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/heuristics/ConsensusPruning$1.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/heuristics/ConsensusPruning$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/heuristics/ConsensusPruning$IterateGA.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/heuristics/ConsensusPruning$IterateGA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/heuristics/ConsensusPruning.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/heuristics/ConsensusPruning.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/Dataset$Partition.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/Dataset$Partition.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/Dataset.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/Dataset.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/modeltest/AIC.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/modeltest/AIC.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/modeltest/BIC.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/modeltest/BIC.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/parsimony/Parsimony.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/modelization/parsimony/Parsimony.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/PrintMonitor.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/PrintMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchConsole$1.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchConsole$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchConsole.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchConsole.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchConsoleMonitor$1.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchConsoleMonitor$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchConsoleMonitor.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchConsoleMonitor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchSilent.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/monitors/SearchSilent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/parameters/Parameters$1.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/parameters/Parameters$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/parameters/Parameters.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/parameters/Parameters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Consensus.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Consensus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Tree$1.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Tree$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Tree$InOutMap.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Tree$InOutMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Tree$Status.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Tree$Status.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Tree.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/metapiga/trees/Tree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/Annotatable$AnnotationForwarder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/Annotatable$AnnotationForwarder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/AnnotationTools.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/AnnotationTools.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/CollectionConstraint$AllValuesIn.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/CollectionConstraint$AllValuesIn.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/CollectionConstraint$Contains.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/CollectionConstraint$Contains.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/EcNumber$Impl.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/EcNumber$Impl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/MergeAnnotation$MAMapEntry.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/MergeAnnotation$MAMapEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/MergeAnnotation$PropertyForwarder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/MergeAnnotation$PropertyForwarder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/OverlayAnnotation$OAMapEntry.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/OverlayAnnotation$OAMapEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/OverlayAnnotation$PropertyForwarder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/OverlayAnnotation$PropertyForwarder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/alignment/SubstitutionMatrix.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/alignment/SubstitutionMatrix.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/annodb/LazyFilteredAnnotationDB.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/annodb/LazyFilteredAnnotationDB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/annodb/LazySearchedAnnotationDB.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/annodb/LazySearchedAnnotationDB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dist/Distribution$NullModelForwarder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dist/Distribution$NullModelForwarder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dist/PairDistribution$PairTrainer.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dist/PairDistribution$PairTrainer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dp/DP.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dp/DP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dp/onehead/SingleDP.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dp/onehead/SingleDP.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dp/twohead/LightPairDPCursor.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dp/twohead/LightPairDPCursor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dp/twohead/MatrixPairDPCursor.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/dp/twohead/MatrixPairDPCursor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/gui/sequence/BumpedRenderer$CtxtFilt.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/gui/sequence/BumpedRenderer$CtxtFilt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/gui/sequence/FilteringRenderer$CtxtFilt.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/gui/sequence/FilteringRenderer$CtxtFilt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/gui/sequence/PairwiseFilteringRenderer$FilteredSubContext.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/gui/sequence/PairwiseFilteringRenderer$FilteredSubContext.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/gui/sequence/SequenceViewerEvent.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/gui/sequence/SequenceViewerEvent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/molbio/RestrictionEnzyme.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/molbio/RestrictionEnzyme.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/blast2html/EbiDatabaseURLGenerator.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/blast2html/EbiDatabaseURLGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/blast2html/NcbiDatabaseURLGenerator.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/blast2html/NcbiDatabaseURLGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/indexdb/BioStoreFactory.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/indexdb/BioStoreFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/phred/PhredTools.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/phred/PhredTools.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/sax/AbstractNativeAppSAXParser.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/sax/AbstractNativeAppSAXParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/sax/BlastLikeSAXParser.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/sax/BlastLikeSAXParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/scf/SCF.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/scf/SCF.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/ssbind/BlastLikeSearchBuilder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/program/ssbind/BlastLikeSearchBuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/proteomics/aaindex/AAindex.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/proteomics/aaindex/AAindex.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/search/SequenceDBSearchHit.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/search/SequenceDBSearchHit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/search/SequenceDBSearchResult.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/search/SequenceDBSearchResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/search/SimpleSeqSimilaritySearchHit.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/search/SimpleSeqSimilaritySearchHit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/search/SimpleSeqSimilaritySearchResult.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/search/SimpleSeqSimilaritySearchResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ByClass.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ByClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ByPairwiseScore.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ByPairwiseScore.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$BySequenceName.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$BySequenceName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$BySource.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$BySource.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ByType.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ByType.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ContainedByLocation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ContainedByLocation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$FrameFilter.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$FrameFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$Not.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$Not.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$OverlapsLocation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$OverlapsLocation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ShadowContainedByLocation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ShadowContainedByLocation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ShadowOverlapsLocation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$ShadowOverlapsLocation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$StrandFilter.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/FeatureFilter$StrandFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/IDMaker$ByName.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/IDMaker$ByName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/IDMaker$ByURN.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/IDMaker$ByURN.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/SequenceDBWrapper$SequencesForwarder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/SequenceDBWrapper$SequencesForwarder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/SimpleSequenceDBInstallation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/SimpleSequenceDBInstallation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/biosql/HypersonicDBHelper.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/biosql/HypersonicDBHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/biosql/OracleDBHelper.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/biosql/OracleDBHelper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/biosql/TaxonSQL.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/db/biosql/TaxonSQL.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/impl/LazyFilterFeatureHolder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/impl/LazyFilterFeatureHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/impl/SimpleFeature.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/impl/SimpleFeature.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/impl/SimpleFramedFeature.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/impl/SimpleFramedFeature.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/impl/TemplateUtils.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/impl/TemplateUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/ChunkedSymbolListFactory.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/ChunkedSymbolListFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/GenbankXmlFormat.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/GenbankXmlFormat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/OrganismParser$Factory.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/OrganismParser$Factory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/SeqIOTools.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/SeqIOTools.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEKeywordPropHandler.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEKeywordPropHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEMapLocation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEMapLocation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEMapPosition.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEMapPosition.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEMatchRegion.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEMatchRegion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEProperty.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEProperty.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEQueryRegion.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEQueryRegion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVERelatedAnnot.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVERelatedAnnot.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEXref.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEXref.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEXrefs.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/AGAVEXrefs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/Embl2AgaveAnnotFilter.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/io/agave/Embl2AgaveAnnotFilter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/projection/ProjectedFeatureHolder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/projection/ProjectedFeatureHolder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/projection/ProjectionUtils.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/projection/ProjectionUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/projection/ReparentContext$PFChangeForwarder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/seq/projection/ReparentContext$PFChangeForwarder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/AbstractSymbolList$EditTranslater.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/AbstractSymbolList$EditTranslater.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/AlphabetManager.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/AlphabetManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/FuzzyLocation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/FuzzyLocation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/FuzzyPointLocation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/FuzzyPointLocation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/InfiniteCrossProductAlphabet.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/InfiniteCrossProductAlphabet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/LinearAlphabetIndex$IndexRebuilder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/LinearAlphabetIndex$IndexRebuilder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/LocationTools.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/LocationTools.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/PackedSymbolList.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/PackedSymbolList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/UkkonenSuffixTree.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/symbol/UkkonenSuffixTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/taxa/AbstractTaxon.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/bio/taxa/AbstractTaxon.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/naming/ObdaContext.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/naming/ObdaContext.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/ontology/AbstractTerm$1.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/ontology/AbstractTerm$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/ontology/OntologyTerm$Impl$1.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/ontology/OntologyTerm$Impl$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/ontology/Term$Impl.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/ontology/Term$Impl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/ontology/Triple$Impl.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/ontology/Triple$Impl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/DiagonalAddKernel.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/DiagonalAddKernel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/ListSumKernel.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/ListSumKernel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/NormalizingKernel.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/NormalizingKernel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/PolynomialKernel.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/PolynomialKernel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/RadialBaseKernel.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/RadialBaseKernel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/SigmoidKernel.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/SigmoidKernel.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/tools/TrainRegression.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/stats/svm/tools/TrainRegression.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/ChangeEvent.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/ChangeEvent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/ChangeForwarder.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/ChangeForwarder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/OverlayMap$OMapEntry.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/OverlayMap$OMapEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/SmallMap$MapEntry.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/SmallMap$MapEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/automata/FiniteAutomaton$Transition.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/automata/FiniteAutomaton$Transition.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/CodeField.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/CodeField.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/ConstantPool$CPDoubleEntry.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/ConstantPool$CPDoubleEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/ConstantPool$CPFloatEntry.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/ConstantPool$CPFloatEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/ExceptionMemento.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/ExceptionMemento.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/IfExpression.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/IfExpression.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/IntrospectedCodeClass.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/IntrospectedCodeClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/LocalVariable.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/bytecode/LocalVariable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/cache/WeakValueHashMap$WVMapEntry.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/cache/WeakValueHashMap$WVMapEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/candy/CandyEntry.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/candy/CandyEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/lsid/LifeScienceIdentifier.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/lsid/LifeScienceIdentifier.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/regex/PatternChecker$1.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojava/utils/regex/PatternChecker$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleComment.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleComment.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleCrossRef.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleCrossRef.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleDocRef.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleDocRef.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleDocRefAuthor.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleDocRefAuthor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleRankedCrossRef.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleRankedCrossRef.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleRankedDocRef.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/SimpleRankedDocRef.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/SimpleBioEntry.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/SimpleBioEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/SimpleBioEntryRelationship.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/SimpleBioEntryRelationship.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/alignment/blast/RemoteQBlastService.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/alignment/blast/RemoteQBlastService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByName.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByRank.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByRank.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$BySequenceName.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$BySequenceName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$BySourceTerm.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$BySourceTerm.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$BySourceTermName.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$BySourceTermName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByStrand.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByStrand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByTypeTerm.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByTypeTerm.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByTypeTermName.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ByTypeTermName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ContainedByRichLocation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$ContainedByRichLocation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$Not.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$Not.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$OverlapsRichLocation.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/db/biosql/BioSQLFeatureFilter$OverlapsRichLocation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/phylo/io/nexus/NexusFileListener$Abstract.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/phylo/io/nexus/NexusFileListener$Abstract.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/RichLocation$Tools.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/RichLocation$Tools.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/RichSequence$IOTools.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/RichSequence$IOTools.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/RichSequence$Terms.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/RichSequence$Terms.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/SimpleRichFeatureRelationship.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/SimpleRichFeatureRelationship.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/ThinRichSequence.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/seq/ThinRichSequence.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/taxa/SimpleNCBITaxonName.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/bio/taxa/SimpleNCBITaxonName.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/ontology/SimpleComparableTerm.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/ontology/SimpleComparableTerm.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/ontology/SimpleComparableTriple.class" afterPath="$PROJECT_DIR$/out/production/metaGA1/org/biojavax/ontology/SimpleComparableTriple.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metapiga/MetaPIGA.java" afterPath="$PROJECT_DIR$/src/metapiga/MetaPIGA.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruning.java" afterPath="$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruning.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metapiga/modelization/Dataset.java" afterPath="$PROJECT_DIR$/src/metapiga/modelization/Dataset.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metapiga/modelization/parsimony/Parsimony.java" afterPath="$PROJECT_DIR$/src/metapiga/modelization/parsimony/Parsimony.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metapiga/monitors/SearchConsole.java" afterPath="$PROJECT_DIR$/src/metapiga/monitors/SearchConsole.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metapiga/monitors/SearchConsoleMonitor.java" afterPath="$PROJECT_DIR$/src/metapiga/monitors/SearchConsoleMonitor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metapiga/parameters/Parameters.java" afterPath="$PROJECT_DIR$/src/metapiga/parameters/Parameters.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/metapiga/trees/Tree.java" afterPath="$PROJECT_DIR$/src/metapiga/trees/Tree.java" />
+    </list>
     <ignored path="metaGA1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,42 +247,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MetaPIGA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/metapiga/MetaPIGA.java">
+      <file leaf-file-name="Parsimony.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/parsimony/Parsimony.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="144" column="25" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="25" />
-              <folding>
-                <element signature="method#loadDataFile#0;class#MetaPIGA#0" expanded="false" />
-                <element signature="e#5638#5673#0" expanded="false" />
-                <element signature="e#5921#5927#0" expanded="true" />
-                <element signature="class#UI#0;class#MetaPIGA#0" expanded="false" />
-                <element signature="method#UI#0;class#UI#0;class#MetaPIGA#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConsensusPruning.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruning.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="333" column="25" selection-start-line="333" selection-start-column="25" selection-end-line="333" selection-end-column="25" />
-              <folding>
-                <element signature="method#setStartingTrees#0;class#ConsensusPruning#0" expanded="false" />
-                <element signature="method#hasToContinue#0;class#ConsensusPruning#0" expanded="false" />
-                <element signature="method#putBestIndividualFirst#0;class#ConsensusPruning#0" expanded="false" />
-                <element signature="method#IterateGA#0;class#IterateGA#0;class#ConsensusPruning#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Monitor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/Monitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="40" column="29" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="29" />
+            <state relative-caret-position="494">
+              <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -69,11 +260,12 @@
       <file leaf-file-name="Parameters.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/metapiga/parameters/Parameters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1548">
-              <caret line="726" column="5" selection-start-line="726" selection-start-column="5" selection-end-line="726" selection-end-column="5" />
+            <state relative-caret-position="5206">
+              <caret line="408" column="37" selection-start-line="408" selection-start-column="37" selection-end-line="408" selection-end-column="37" />
               <folding>
                 <element signature="initializer##0;class#Parameters#0" expanded="false" />
                 <element signature="method#calibrateLastDomainPosition#0;class#Parameters#0" expanded="false" />
+                <element signature="method#Parameters#0;class#Parameters#0" expanded="false" />
                 <element signature="method#resetDataset#0;class#Parameters#0" expanded="false" />
                 <element signature="method#resetAll#0;class#Parameters#0" expanded="false" />
                 <element signature="method#setParameters#0;class#Parameters#0" expanded="false" />
@@ -93,18 +285,15 @@
                 <element signature="method#addStartingTrees#0;class#Parameters#0" expanded="false" />
                 <element signature="method#addStartingTrees#1;class#Parameters#0" expanded="false" />
                 <element signature="method#setStartingTrees#0;class#Parameters#0" expanded="false" />
-                <element signature="method#buildDataset#0;class#Parameters#0" expanded="false" />
                 <element signature="method#defineTransitionCodonTable#0;class#Parameters#0" expanded="false" />
                 <element signature="method#findStopAndAmbiguousCodons#0;class#Parameters#0" expanded="false" />
                 <element signature="method#checkParameters#0;class#Parameters#0" expanded="false" />
                 <element signature="method#hasManyReplicates#0;class#Parameters#0" expanded="false" />
-                <element signature="method#showNexusDataMatrix#0;class#Parameters#0" expanded="false" />
                 <element signature="method#showDataset#0;class#Parameters#0" expanded="false" />
                 <element signature="method#addSpacesToWeightValue#0;class#Parameters#0" expanded="false" />
                 <element signature="method#getModifiedDataBlock#0;class#Parameters#0" expanded="false" />
                 <element signature="method#getMetapigaBlock#0;class#Parameters#0" expanded="false" />
                 <element signature="method#writeTreeBlock#0;class#Parameters#0" expanded="false" />
-                <element signature="method#printParameters#0;class#Parameters#0" expanded="false" />
                 <element signature="method#duplicateButShareDataset#0;class#Parameters#0" expanded="false" />
                 <element signature="method#duplicate#0;class#Parameters#0" expanded="false" />
                 <element signature="method#applyParametersTo#0;class#Parameters#0" expanded="false" />
@@ -120,7 +309,6 @@
                 <element signature="method#access$1#0;class#Parameters#0" expanded="false" />
                 <element signature="class#FileFormat#0;class#Parameters#0" expanded="false" />
                 <element signature="method#FileFormat#0;class#FileFormat#0;class#Parameters#0" expanded="false" />
-                <element signature="class#ColumnRemoval#0;class#Parameters#0" expanded="false" />
                 <element signature="method#ColumnRemoval#0;class#ColumnRemoval#0;class#Parameters#0" expanded="false" />
                 <element signature="class#DistanceModel#0;class#Parameters#0" expanded="false" />
                 <element signature="method#DistanceModel#0;class#DistanceModel#0;class#Parameters#0" expanded="false" />
@@ -152,6 +340,7 @@
                 <element signature="class#GASelection#0;class#Parameters#0" expanded="false" />
                 <element signature="method#GASelection#0;class#GASelection#0;class#Parameters#0" expanded="false" />
                 <element signature="class#Heuristic#0;class#Parameters#0" expanded="false" />
+                <element signature="class#HeuristicStopCondition#0;class#Parameters#0" expanded="false" />
                 <element signature="method#HeuristicStopCondition#0;class#HeuristicStopCondition#0;class#Parameters#0" expanded="false" />
                 <element signature="class#LikelihoodCalculationType#0;class#Parameters#0" expanded="false" />
                 <element signature="class#LogFile#0;class#Parameters#0" expanded="false" />
@@ -179,14 +368,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Dataset.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/Dataset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2983">
+              <caret line="193" column="52" selection-start-line="193" selection-start-column="52" selection-end-line="193" selection-end-column="52" />
+              <folding>
+                <element signature="method#Dataset#2;class#Dataset#0" expanded="false" />
+                <element signature="method#Dataset#3;class#Dataset#0" expanded="false" />
+                <element signature="method#makeCodonDataset#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getCharset#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getNChar#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getCompressedNChar#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getDataFrequencies#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getDataFrequenciesToString#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getSequenceQuality#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getAmbiguousSequences#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getIdenticalSequences#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getDistanceMatrix#0;class#Dataset#0" expanded="false" />
+                <element signature="method#generateTree#0;class#Dataset#0" expanded="false" />
+                <element signature="method#generateRandomSubTree#0;class#Dataset#0" expanded="false" />
+                <element signature="method#generateNeighborJoiningTree#0;class#Dataset#0" expanded="false" />
+                <element signature="method#randomSampling#0;class#Dataset#0" expanded="false" />
+                <element signature="method#toString#0;class#Dataset#0" expanded="false" />
+                <element signature="method#Partition#1;class#Partition#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getData#1;class#Partition#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getCompression#0;class#Partition#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getDataFrequencies#0;class#Partition#0;class#Dataset#0" expanded="false" />
+                <element signature="method#getDataFrequenciesToString#0;class#Partition#0;class#Dataset#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchConsole.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/SearchConsole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3819">
+              <caret line="229" column="0" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchConsoleMonitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/SearchConsoleMonitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1957">
+              <caret line="149" column="23" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="23" />
+              <folding>
+                <element signature="method#showStageSearchStart#0;class#SearchConsoleMonitor#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6745">
-              <caret line="797" column="0" selection-start-line="797" selection-start-column="0" selection-end-line="797" selection-end-column="0" />
+            <state relative-caret-position="339">
+              <caret line="194" column="4" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
               <folding>
+                <element signature="method#Tree#0;class#Tree#0" expanded="false" />
+                <element signature="method#Tree#1;class#Tree#0" expanded="false" />
+                <element signature="method#clone#0;class#Tree#0" expanded="false" />
                 <element signature="e#12133#12167#0" expanded="false" />
-                <element signature="method#cloneWithConsensus#0;class#Tree#0" expanded="false" />
                 <element signature="e#15717#15751#0" expanded="false" />
                 <element signature="method#root#0;class#Tree#0" expanded="false" />
                 <element signature="method#root#1;class#Tree#0" expanded="false" />
@@ -203,10 +449,10 @@
                 <element signature="method#initParsimony#0;class#Tree#0" expanded="false" />
                 <element signature="method#createOneTimeGraphicMemeory#0;class#Tree#0" expanded="false" />
                 <element signature="method#Evaluation#0;class#Tree#0" expanded="false" />
-                <element signature="e#30793#30794#0" expanded="true" />
-                <element signature="e#30844#30845#0" expanded="true" />
-                <element signature="e#30887#30888#0" expanded="true" />
-                <element signature="e#30935#30936#0" expanded="true" />
+                <element signature="method#getEvaluation#0;class#Tree#0" expanded="false" />
+                <element signature="method#isBetterThan#0;class#Tree#0" expanded="false" />
+                <element signature="method#isBetterThan#1;class#Tree#0" expanded="false" />
+                <element signature="method#markAllNodesToReEvaluate#0;class#Tree#0" expanded="false" />
                 <element signature="method#markNodeToReEvaluate#0;class#Tree#0" expanded="false" />
                 <element signature="method#setEvaluationModel#0;class#Tree#0" expanded="false" />
                 <element signature="method#setEvaluationStateFrequencies#0;class#Tree#0" expanded="false" />
@@ -238,14 +484,6 @@
                 <element signature="method#getAncestralStates#0;class#Tree#0" expanded="false" />
                 <element signature="method#getMostProbableAncestralSequence#0;class#Tree#0" expanded="false" />
                 <element signature="method#printAncestralStates#0;class#Tree#0" expanded="false" />
-                <element signature="e#66210#66211#0" expanded="true" />
-                <element signature="e#66248#66249#0" expanded="true" />
-                <element signature="e#66286#66287#0" expanded="true" />
-                <element signature="e#66323#66324#0" expanded="true" />
-                <element signature="e#66366#66367#0" expanded="true" />
-                <element signature="e#66400#66401#0" expanded="true" />
-                <element signature="e#66442#66443#0" expanded="true" />
-                <element signature="e#66476#66477#0" expanded="true" />
                 <element signature="class#Status#0;class#Tree#0" expanded="false" />
                 <element signature="method#Status#0;class#Status#0;class#Tree#0" expanded="false" />
                 <element signature="class#InOutMap#0;class#Tree#0" expanded="false" />
@@ -257,62 +495,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchConsoleMonitor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/SearchConsoleMonitor.java">
+      <file leaf-file-name="ConsensusPruning.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="319" column="31" selection-start-line="319" selection-start-column="31" selection-end-line="319" selection-end-column="31" />
+            <state relative-caret-position="3233">
+              <caret line="287" column="20" selection-start-line="287" selection-start-column="20" selection-end-line="287" selection-end-column="20" />
               <folding>
-                <element signature="method#end#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#getBestLikelihood#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printStartingTrees#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printTreeBeforeOperator#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printOperatorInfos#1;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printTreeAfterOperator#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printOperatorFrequenciesUpdate#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printOperatorFrequenciesUpdate#1;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printOperatorStatistics#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printDetailsHC#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printDetailsSA#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printDetailsGA#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printDetailsGA#1;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printDetailsCP#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printDetailsCP#1;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printDetailsCP#2;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printTreesHC#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printTreesSA#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printTreesGA#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printTreesCP#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#printConsensus#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="e#11822#11823#0" expanded="true" />
-                <element signature="e#11881#11882#0" expanded="true" />
-                <element signature="method#showCurrentCoolingSchedule#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showCurrentTemperature#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showCurrentMRE#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showCurrentTree#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showEvaluations#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showReplicate#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStageCPMetapopulation#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStageDistanceMatrix#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStageGAPopulation#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStageOptimization#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStageSATemperature#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStageHCRestart#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStageSearchProgress#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStageSearchStart#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStageStartingTree#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showStartingTree#0;class#SearchConsoleMonitor#0" expanded="false" />
-                <element signature="method#showAutoStopDone#0;class#SearchConsoleMonitor#0" expanded="false" />
+                <element signature="method#ConsensusPruning#0;class#ConsensusPruning#0" expanded="false" />
+                <element signature="method#getName#0;class#ConsensusPruning#0" expanded="false" />
+                <element signature="e#27277#27339#0" expanded="false" />
+                <element signature="method#putBestIndividualFirst#0;class#ConsensusPruning#0" expanded="false" />
+                <element signature="method#addSelectionDetails#0;class#ConsensusPruning#0" expanded="false" />
+                <element signature="method#IterateGA#0;class#IterateGA#0;class#ConsensusPruning#0" expanded="false" />
+                <element signature="e#34809#34820#0" expanded="false" />
+                <marker date="1488013478640" expanded="false" signature="36568:36574" ph="&lt;~&gt;" />
+                <marker date="1488013478640" expanded="false" signature="36653:36662" ph="&lt;~&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintMonitor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/PrintMonitor.java">
+      <file leaf-file-name="Operators.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Operators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="752" column="64" selection-start-line="752" selection-start-column="64" selection-end-line="752" selection-end-column="64" />
+            <state relative-caret-position="667">
+              <caret line="444" column="0" selection-start-line="444" selection-start-column="0" selection-end-line="445" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consensus.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Consensus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2603">
+              <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -327,6 +544,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -338,9 +558,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cern/colt/matrix/linalg/Smp.java" />
-        <option value="$PROJECT_DIR$/src/org/biojava/bio/program/blast2html/AbstractAlignmentStyler.java" />
-        <option value="$PROJECT_DIR$/src/org/biojava/bio/program/sax/blastxml/StAXFeatureHandler.java" />
         <option value="$PROJECT_DIR$/src/org/biojava/bio/program/scf/SCF.java" />
         <option value="$PROJECT_DIR$/src/org/biojava/bio/program/ssaha/HitMerger.java" />
         <option value="$PROJECT_DIR$/src/org/biojava/bio/program/xff/XFFFeatureSetHandler.java" />
@@ -362,7 +579,6 @@
         <option value="$PROJECT_DIR$/src/metapiga/trees/ConsensusNode.java" />
         <option value="$PROJECT_DIR$/src/metapiga/AboutBox.java" />
         <option value="$PROJECT_DIR$/src/metapiga/ProgressHandling.java" />
-        <option value="$PROJECT_DIR$/src/metapiga/io/FastaReader.java" />
         <option value="$PROJECT_DIR$/src/metapiga/io/NexusWriter.java" />
         <option value="$PROJECT_DIR$/src/metapiga/WaitingLogo.java" />
         <option value="$PROJECT_DIR$/src/metapiga/trees/TreeGenerator.java" />
@@ -383,12 +599,16 @@
         <option value="$PROJECT_DIR$/src/metapiga/trees/Node.java" />
         <option value="$PROJECT_DIR$/src/metapiga/trees/Operators.java" />
         <option value="$PROJECT_DIR$/../../../metapiga源码/MetaPIGA_source_from_Procyon/metapiga/modelization/Dataset.java" />
-        <option value="$PROJECT_DIR$/src/metapiga/modelization/Dataset.java" />
-        <option value="$PROJECT_DIR$/src/metapiga/modelization/parsimony/Parsimony.java" />
-        <option value="$PROJECT_DIR$/src/metapiga/MetaPIGA.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/io/FastaReader.java" />
         <option value="$PROJECT_DIR$/src/metapiga/trees/Tree.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/MetaPIGA.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/parsimony/Parsimony.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/monitors/SearchConsole.java" />
         <option value="$PROJECT_DIR$/src/metapiga/parameters/Parameters.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/monitors/SearchConsoleMonitor.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/modelization/Dataset.java" />
         <option value="$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruning.java" />
+        <option value="$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruningbak.java" />
       </list>
     </option>
   </component>
@@ -402,7 +622,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1370" />
+    <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -430,32 +650,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="metaGA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="metaGA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -485,6 +679,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -568,52 +766,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="optimization" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="metaGA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="metaGA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="metapiga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="monitors" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="metaGA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="metaGA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="metapiga" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="heuristics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -621,7 +801,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
@@ -630,8 +810,15 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="metaga1" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="metapiga.heuristics" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\XMU\metaGA\metaGA1\metaGA1\src\metapiga\io\metapigablock" />
       <recent name="C:\Users\zhangmz1\IdeaProjects\metaGA1\src\metapiga" />
@@ -920,8 +1107,8 @@
     <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="metapiga.MetaPIGA" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="noupdate nogui &quot;D:\Program Files\Metapiga\Datasets\allouput.fasta&quot; weights=0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1" />
+      <option name="VM_PARAMETERS" value="-Xmx10240m" />
+      <option name="PROGRAM_PARAMETERS" value="noupdate nogui &quot;F:\zhao\301\paper publish\dataset\fixedmissing\55win.nex&quot;" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -967,59 +1154,59 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="754" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5024155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5008264" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33816424" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27938932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23071104" sideWeight="0.49209931" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2962963" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.295764" sideWeight="0.50790066" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34299517" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30228758" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3022508" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29951692" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5362319" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30228758" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3022508" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5024155" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5008264" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33816424" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27996966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23071104" sideWeight="0.49209931" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29951692" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5362319" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2962963" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.295764" sideWeight="0.50790066" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36876008" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1038,7 +1225,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="256" />
+      <option name="time" value="399" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1047,125 +1234,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/ConsensusMRE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/TreeSet.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/NexusFileFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="245" column="64" selection-start-line="245" selection-start-column="64" selection-end-line="245" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/CharactersBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="141" column="34" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/CharactersBlockParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="333" column="50" selection-start-line="333" selection-start-column="50" selection-end-line="333" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/Heuristic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$1/index.jsp" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/360zip$Temp/360$2/listSong.jsp" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Set.java" />
-    <entry file="file://$PROJECT_DIR$/src/metapiga/parameters/CharsetsContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="229" column="40" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/BitSet.java" />
-    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/ConsensusNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/SequenceArrays4Dimension.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/data/DataType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/Charset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="37" column="51" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/data/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/LikelihoodFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/SequenceArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/GeneticAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="55" column="11" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Map.java" />
-    <entry file="file://$PROJECT_DIR$/src/metapiga/io/NexusWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="149" column="61" selection-start-line="149" selection-start-column="61" selection-end-line="149" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/utilities/Tools.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8246">
-          <caret line="478" column="61" selection-start-line="478" selection-start-column="61" selection-end-line="478" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/metapiga/io/NewickReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1824">
@@ -1174,21 +1242,6 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/swing/DefaultListModel.java" />
-    <entry file="file://$PROJECT_DIR$/src/metapiga/io/FastaReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/io/NexusReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4769">
-          <caret line="286" column="36" selection-start-line="286" selection-start-column="36" selection-end-line="286" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java" />
     <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Branch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
@@ -1203,65 +1256,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/metapiga/trees/exceptions/NullAncestorException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Consensus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="644" column="35" selection-start-line="644" selection-start-column="35" selection-end-line="644" selection-end-column="35" />
-          <folding>
-            <element signature="method#Consensus#1;class#Consensus#0" expanded="false" />
-            <element signature="method#putBiPartitionInBranches#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getBiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#putBiPartitionExistInTree#0;class#Consensus#0" expanded="false" />
-            <element signature="method#isBiPartitionExistsInTree#0;class#Consensus#0" expanded="false" />
-            <element signature="method#setConsensusType#0;class#Consensus#0" expanded="false" />
-            <element signature="method#isInConsensus#0;class#Consensus#0" expanded="false" />
-            <element signature="method#addBiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getConsensusTree#0;class#Consensus#0" expanded="false" />
-            <element signature="method#buildConsensusTree#0;class#Consensus#0" expanded="false" />
-            <element signature="method#showPartitions#0;class#Consensus#0" expanded="false" />
-            <element signature="method#showConsensus#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getConsensusCoverage#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getNNIValidCandidates#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getSPRValidTargets#0;class#Consensus#0" expanded="false" />
-            <element signature="method#buildSPRValidTargets#0;class#Consensus#0" expanded="false" />
-            <element signature="method#acceptTXS#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getTXSValidCandidates#0;class#Consensus#0" expanded="false" />
-            <element signature="method#acceptSTS#0;class#Consensus#0" expanded="false" />
-            <element signature="e#27371#27377#0" expanded="false" />
-            <element signature="e#28164#28170#0" expanded="false" />
-            <element signature="method#BiPartition#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#BiPartition#2;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#compareTo#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#toTaxa#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getTaxa#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#equals#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#hashCode#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#isIncludedIn#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#isCompatible#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getSmallestPartition#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getBiggestPartition#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#hasOnSamePartition#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#isIncludedIn#1;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#complement#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="method#mirror#0;class#BiPartition#0;class#Consensus#0" expanded="false" />
-            <element signature="class#TaxaSet#0;class#Consensus#0" expanded="false" />
-            <element signature="method#TaxaSet#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
-            <element signature="method#TaxaSet#1;class#TaxaSet#0;class#Consensus#0" expanded="false" />
-            <element signature="method#toString#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
-            <element signature="method#getTaxas#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
-            <element signature="method#isIncludedIn#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
-            <element signature="method#complement#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
-            <element signature="method#keepTaxas#0;class#TaxaSet#0;class#Consensus#0" expanded="false" />
-            <element signature="method#access$4#0;class#Consensus#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1273,163 +1271,273 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/List.java" />
-    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/LikelihoodClassic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="37" column="29" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/ByteArrayOutputStream.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/io/ObjectOutputStream.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Map.java" />
+    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/PrintMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13870">
+          <caret line="752" column="64" selection-start-line="752" selection-start-column="64" selection-end-line="752" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2137">
+          <caret line="650" column="21" selection-start-line="650" selection-start-column="21" selection-end-line="650" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/AWTAutoShutdown.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/data/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="354" column="23" selection-start-line="354" selection-start-column="23" selection-end-line="354" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="744" column="25" selection-start-line="744" selection-start-column="25" selection-end-line="744" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/DataBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/io/FastaReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="113" column="23" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/data/DataType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="115" column="22" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/javax/swing/SwingWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="536" column="22" selection-start-line="536" selection-start-column="22" selection-end-line="536" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="82" column="28" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/SequenceArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/SequenceLinearArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1976">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/LikelihoodFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="475" column="0" selection-start-line="475" selection-start-column="0" selection-end-line="475" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/SequenceArrays4Dimension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/Likelihood.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="500" column="4" selection-start-line="500" selection-start-column="4" selection-end-line="500" selection-end-column="4" />
+        <state relative-caret-position="399">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/Dataset.java">
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/likelihood/LikelihoodClassic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16834">
-          <caret line="958" column="27" selection-start-line="958" selection-start-column="20" selection-end-line="958" selection-end-column="27" />
+        <state relative-caret-position="318">
+          <caret line="112" column="37" selection-start-line="112" selection-start-column="31" selection-end-line="112" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/parsimony/Parsimony.java">
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/TreeGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+        <state relative-caret-position="114">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/BitSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="441" column="16" selection-start-line="441" selection-start-column="16" selection-end-line="441" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/biojavax/bio/phylo/io/nexus/CharactersBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1865">
+          <caret line="66" column="28" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/MetaPIGA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="124" column="59" selection-start-line="124" selection-start-column="59" selection-end-line="124" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/data/DNA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="26" />
+        <state relative-caret-position="209">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Operators.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4275">
-          <caret line="492" column="24" selection-start-line="492" selection-start-column="24" selection-end-line="492" selection-end-column="24" />
+        <state relative-caret-position="11058">
+          <caret line="627" column="0" selection-start-line="627" selection-start-column="0" selection-end-line="627" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="181" column="16" selection-start-line="181" selection-start-column="16" selection-end-line="181" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/io/NexusReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="162" column="66" selection-start-line="162" selection-start-column="66" selection-end-line="162" selection-end-column="66" />
           <folding>
-            <element signature="method#Operators#0;class#Operators#0" expanded="false" />
-            <element signature="method#getOperatorUse#0;class#Operators#0" expanded="false" />
-            <element signature="method#addCancellationByConsensus#0;class#Operators#0" expanded="false" />
-            <element signature="method#getCancellationsByConsensus#0;class#Operators#0" expanded="false" />
-            <element signature="method#nextOperator#0;class#Operators#0" expanded="false" />
-            <element signature="method#updateFrequencies#0;class#Operators#0" expanded="false" />
-            <element signature="method#printStatistics#0;class#Operators#0" expanded="false" />
-            <element signature="method#mutateTree#1;class#Operators#0" expanded="false" />
-            <element signature="method#mutateTree#2;class#Operators#0" expanded="false" />
-            <element signature="method#casualMutateTree#0;class#Operators#0" expanded="false" />
-            <element signature="method#NNI#0;class#Operators#0" expanded="false" />
-            <element signature="method#TXS#1;class#Operators#0" expanded="false" />
-            <element signature="method#STS#0;class#Operators#0" expanded="false" />
-            <element signature="method#STS#1;class#Operators#0" expanded="false" />
-            <element signature="method#RPM#0;class#Operators#0" expanded="false" />
-            <element signature="method#GDM#0;class#Operators#0" expanded="false" />
-            <element signature="method#PIM#0;class#Operators#0" expanded="false" />
-            <element signature="method#APRM#0;class#Operators#0" expanded="false" />
-            <element signature="method#getSPRValidTargets#0;class#Operators#0" expanded="false" />
-            <element signature="method#buildSPRValidTargets#0;class#Operators#0" expanded="false" />
+            <element signature="method#NexusReader#1;class#NexusReader#0" expanded="false" />
+            <element signature="method#NexusReader#2;class#NexusReader#0" expanded="false" />
+            <element signature="method#checkNexusFile#0;class#NexusReader#0" expanded="false" />
+            <element signature="method#batchRunExtraction#0;class#NexusReader#0" expanded="false" />
+            <element signature="method#extractLabelFromComment#0;class#NexusReader#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/SearchConsole.java">
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/Dataset.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="2983">
+          <caret line="193" column="52" selection-start-line="193" selection-start-column="52" selection-end-line="193" selection-end-column="52" />
+          <folding>
+            <element signature="method#Dataset#2;class#Dataset#0" expanded="false" />
+            <element signature="method#Dataset#3;class#Dataset#0" expanded="false" />
+            <element signature="method#makeCodonDataset#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getCharset#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getNChar#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getCompressedNChar#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getDataFrequencies#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getDataFrequenciesToString#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getSequenceQuality#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getAmbiguousSequences#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getIdenticalSequences#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getDistanceMatrix#0;class#Dataset#0" expanded="false" />
+            <element signature="method#generateTree#0;class#Dataset#0" expanded="false" />
+            <element signature="method#generateRandomSubTree#0;class#Dataset#0" expanded="false" />
+            <element signature="method#generateNeighborJoiningTree#0;class#Dataset#0" expanded="false" />
+            <element signature="method#randomSampling#0;class#Dataset#0" expanded="false" />
+            <element signature="method#toString#0;class#Dataset#0" expanded="false" />
+            <element signature="method#Partition#1;class#Partition#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getData#1;class#Partition#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getCompression#0;class#Partition#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getDataFrequencies#0;class#Partition#0;class#Dataset#0" expanded="false" />
+            <element signature="method#getDataFrequenciesToString#0;class#Partition#0;class#Dataset#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Tree.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/awt/windows/WToolkit.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6745">
-          <caret line="797" column="0" selection-start-line="797" selection-start-column="0" selection-end-line="797" selection-end-column="0" />
-          <folding>
-            <element signature="e#12133#12167#0" expanded="false" />
-            <element signature="method#cloneWithConsensus#0;class#Tree#0" expanded="false" />
-            <element signature="e#15717#15751#0" expanded="false" />
-            <element signature="method#root#0;class#Tree#0" expanded="false" />
-            <element signature="method#root#1;class#Tree#0" expanded="false" />
-            <element signature="method#setAccessNodeToOutgroupRoot#0;class#Tree#0" expanded="false" />
-            <element signature="method#isCompatibleWithDataset#0;class#Tree#0" expanded="false" />
-            <element signature="method#isCompatibleWithOutgroup#0;class#Tree#0" expanded="false" />
-            <element signature="method#setOutgroup#0;class#Tree#0" expanded="false" />
-            <element signature="method#labelizeTree#0;class#Tree#0" expanded="false" />
-            <element signature="method#unroot#0;class#Tree#0" expanded="false" />
-            <element signature="method#addNode#0;class#Tree#0" expanded="false" />
-            <element signature="method#getBranches#0;class#Tree#0" expanded="false" />
-            <element signature="method#getBranch#0;class#Tree#0" expanded="false" />
-            <element signature="method#initLikelihood#0;class#Tree#0" expanded="false" />
-            <element signature="method#initParsimony#0;class#Tree#0" expanded="false" />
-            <element signature="method#createOneTimeGraphicMemeory#0;class#Tree#0" expanded="false" />
-            <element signature="method#Evaluation#0;class#Tree#0" expanded="false" />
-            <element signature="e#30793#30794#0" expanded="true" />
-            <element signature="e#30844#30845#0" expanded="true" />
-            <element signature="e#30887#30888#0" expanded="true" />
-            <element signature="e#30935#30936#0" expanded="true" />
-            <element signature="method#markNodeToReEvaluate#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationModel#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationStateFrequencies#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationRateParameter#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationRate#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationDistribution#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationDistributionSubsets#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationDistributionShape#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationPInv#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationAmongPartitionRate#0;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationAmongPartitionRate#1;class#Tree#0" expanded="false" />
-            <element signature="method#setEvaluationParameters#0;class#Tree#0" expanded="false" />
-            <element signature="method#getEvaluationStateFrequencies#0;class#Tree#0" expanded="false" />
-            <element signature="method#getEvaluationRateParameters#0;class#Tree#0" expanded="false" />
-            <element signature="method#computeLevelAndNbrOfLeaves#0;class#Tree#0" expanded="false" />
-            <element signature="method#fireInodeStructureChange#0;class#Tree#0" expanded="false" />
-            <element signature="method#getLevel#0;class#Tree#0" expanded="false" />
-            <element signature="method#getNodesInLevels#0;class#Tree#0" expanded="false" />
-            <element signature="method#getNumOfLeavesUnder#0;class#Tree#0" expanded="false" />
-            <element signature="method#getAllNodesUnderNeighbor#0;class#Tree#0" expanded="false" />
-            <element signature="method#getPreorderTraversal#0;class#Tree#0" expanded="false" />
-            <element signature="method#getPostorderTraversal#0;class#Tree#0" expanded="false" />
-            <element signature="method#toNewick#0;class#Tree#0" expanded="false" />
-            <element signature="method#toNewickLine#0;class#Tree#0" expanded="false" />
-            <element signature="method#toNewickLineWithML#0;class#Tree#0" expanded="false" />
-            <element signature="method#getEvaluationString#0;class#Tree#0" expanded="false" />
-            <element signature="method#parseEvaluationString#0;class#Tree#0" expanded="false" />
-            <element signature="method#generateNewick#0;class#Tree#0" expanded="false" />
-            <element signature="method#getAncestralStates#0;class#Tree#0" expanded="false" />
-            <element signature="method#getMostProbableAncestralSequence#0;class#Tree#0" expanded="false" />
-            <element signature="method#printAncestralStates#0;class#Tree#0" expanded="false" />
-            <element signature="e#66210#66211#0" expanded="true" />
-            <element signature="e#66248#66249#0" expanded="true" />
-            <element signature="e#66286#66287#0" expanded="true" />
-            <element signature="e#66323#66324#0" expanded="true" />
-            <element signature="e#66366#66367#0" expanded="true" />
-            <element signature="e#66400#66401#0" expanded="true" />
-            <element signature="e#66442#66443#0" expanded="true" />
-            <element signature="e#66476#66477#0" expanded="true" />
-            <element signature="class#Status#0;class#Tree#0" expanded="false" />
-            <element signature="method#Status#0;class#Status#0;class#Tree#0" expanded="false" />
-            <element signature="class#InOutMap#0;class#Tree#0" expanded="false" />
-            <element signature="method#InOutMap#0;class#InOutMap#0;class#Tree#0" expanded="false" />
-            <element signature="method#getNeighborsStatus#0;class#InOutMap#0;class#Tree#0" expanded="false" />
-            <element signature="method#assignGroup#0;class#InOutMap#0;class#Tree#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="2185">
+          <caret line="271" column="9" selection-start-line="271" selection-start-column="9" selection-end-line="271" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/metapiga/parameters/Parameters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1548">
-          <caret line="726" column="5" selection-start-line="726" selection-start-column="5" selection-end-line="726" selection-end-column="5" />
+        <state relative-caret-position="5206">
+          <caret line="408" column="37" selection-start-line="408" selection-start-column="37" selection-end-line="408" selection-end-column="37" />
           <folding>
             <element signature="initializer##0;class#Parameters#0" expanded="false" />
             <element signature="method#calibrateLastDomainPosition#0;class#Parameters#0" expanded="false" />
+            <element signature="method#Parameters#0;class#Parameters#0" expanded="false" />
             <element signature="method#resetDataset#0;class#Parameters#0" expanded="false" />
             <element signature="method#resetAll#0;class#Parameters#0" expanded="false" />
             <element signature="method#setParameters#0;class#Parameters#0" expanded="false" />
@@ -1449,18 +1557,15 @@
             <element signature="method#addStartingTrees#0;class#Parameters#0" expanded="false" />
             <element signature="method#addStartingTrees#1;class#Parameters#0" expanded="false" />
             <element signature="method#setStartingTrees#0;class#Parameters#0" expanded="false" />
-            <element signature="method#buildDataset#0;class#Parameters#0" expanded="false" />
             <element signature="method#defineTransitionCodonTable#0;class#Parameters#0" expanded="false" />
             <element signature="method#findStopAndAmbiguousCodons#0;class#Parameters#0" expanded="false" />
             <element signature="method#checkParameters#0;class#Parameters#0" expanded="false" />
             <element signature="method#hasManyReplicates#0;class#Parameters#0" expanded="false" />
-            <element signature="method#showNexusDataMatrix#0;class#Parameters#0" expanded="false" />
             <element signature="method#showDataset#0;class#Parameters#0" expanded="false" />
             <element signature="method#addSpacesToWeightValue#0;class#Parameters#0" expanded="false" />
             <element signature="method#getModifiedDataBlock#0;class#Parameters#0" expanded="false" />
             <element signature="method#getMetapigaBlock#0;class#Parameters#0" expanded="false" />
             <element signature="method#writeTreeBlock#0;class#Parameters#0" expanded="false" />
-            <element signature="method#printParameters#0;class#Parameters#0" expanded="false" />
             <element signature="method#duplicateButShareDataset#0;class#Parameters#0" expanded="false" />
             <element signature="method#duplicate#0;class#Parameters#0" expanded="false" />
             <element signature="method#applyParametersTo#0;class#Parameters#0" expanded="false" />
@@ -1476,7 +1581,6 @@
             <element signature="method#access$1#0;class#Parameters#0" expanded="false" />
             <element signature="class#FileFormat#0;class#Parameters#0" expanded="false" />
             <element signature="method#FileFormat#0;class#FileFormat#0;class#Parameters#0" expanded="false" />
-            <element signature="class#ColumnRemoval#0;class#Parameters#0" expanded="false" />
             <element signature="method#ColumnRemoval#0;class#ColumnRemoval#0;class#Parameters#0" expanded="false" />
             <element signature="class#DistanceModel#0;class#Parameters#0" expanded="false" />
             <element signature="method#DistanceModel#0;class#DistanceModel#0;class#Parameters#0" expanded="false" />
@@ -1508,6 +1612,7 @@
             <element signature="class#GASelection#0;class#Parameters#0" expanded="false" />
             <element signature="method#GASelection#0;class#GASelection#0;class#Parameters#0" expanded="false" />
             <element signature="class#Heuristic#0;class#Parameters#0" expanded="false" />
+            <element signature="class#HeuristicStopCondition#0;class#Parameters#0" expanded="false" />
             <element signature="method#HeuristicStopCondition#0;class#HeuristicStopCondition#0;class#Parameters#0" expanded="false" />
             <element signature="class#LikelihoodCalculationType#0;class#Parameters#0" expanded="false" />
             <element signature="class#LogFile#0;class#Parameters#0" expanded="false" />
@@ -1534,94 +1639,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/MetaPIGA.java">
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Consensus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="144" column="25" selection-start-line="144" selection-start-column="24" selection-end-line="144" selection-end-column="25" />
-          <folding>
-            <element signature="method#loadDataFile#0;class#MetaPIGA#0" expanded="false" />
-            <element signature="e#5638#5673#0" expanded="false" />
-            <element signature="e#5921#5927#0" expanded="true" />
-            <element signature="class#UI#0;class#MetaPIGA#0" expanded="false" />
-            <element signature="method#UI#0;class#UI#0;class#MetaPIGA#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="2603">
+          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/Monitor.java">
+    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/SearchConsole.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="40" column="29" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="29" />
+        <state relative-caret-position="3819">
+          <caret line="229" column="0" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/modelization/parsimony/Parsimony.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="35" column="70" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/SearchConsoleMonitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="319" column="31" selection-start-line="319" selection-start-column="31" selection-end-line="319" selection-end-column="31" />
+        <state relative-caret-position="1957">
+          <caret line="149" column="23" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="23" />
           <folding>
-            <element signature="method#end#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#getBestLikelihood#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printStartingTrees#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printTreeBeforeOperator#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printOperatorInfos#1;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printTreeAfterOperator#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printOperatorFrequenciesUpdate#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printOperatorFrequenciesUpdate#1;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printOperatorStatistics#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printDetailsHC#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printDetailsSA#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printDetailsGA#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printDetailsGA#1;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printDetailsCP#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printDetailsCP#1;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printDetailsCP#2;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printTreesHC#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printTreesSA#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printTreesGA#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printTreesCP#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#printConsensus#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="e#11822#11823#0" expanded="true" />
-            <element signature="e#11881#11882#0" expanded="true" />
-            <element signature="method#showCurrentCoolingSchedule#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showCurrentTemperature#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showCurrentMRE#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showCurrentTree#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showEvaluations#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showReplicate#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showStageCPMetapopulation#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showStageDistanceMatrix#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showStageGAPopulation#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showStageOptimization#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showStageSATemperature#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showStageHCRestart#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showStageSearchProgress#0;class#SearchConsoleMonitor#0" expanded="false" />
             <element signature="method#showStageSearchStart#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showStageStartingTree#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showStartingTree#0;class#SearchConsoleMonitor#0" expanded="false" />
-            <element signature="method#showAutoStopDone#0;class#SearchConsoleMonitor#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/metapiga/monitors/PrintMonitor.java">
+    <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruningbak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="752" column="64" selection-start-line="752" selection-start-column="64" selection-end-line="752" selection-end-column="64" />
+        <state relative-caret-position="152">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/metapiga/heuristics/ConsensusPruning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="333" column="25" selection-start-line="333" selection-start-column="25" selection-end-line="333" selection-end-column="25" />
+        <state relative-caret-position="3233">
+          <caret line="287" column="20" selection-start-line="287" selection-start-column="20" selection-end-line="287" selection-end-column="20" />
           <folding>
-            <element signature="method#setStartingTrees#0;class#ConsensusPruning#0" expanded="false" />
-            <element signature="method#hasToContinue#0;class#ConsensusPruning#0" expanded="false" />
+            <element signature="method#ConsensusPruning#0;class#ConsensusPruning#0" expanded="false" />
+            <element signature="method#getName#0;class#ConsensusPruning#0" expanded="false" />
+            <element signature="e#27277#27339#0" expanded="false" />
             <element signature="method#putBestIndividualFirst#0;class#ConsensusPruning#0" expanded="false" />
+            <element signature="method#addSelectionDetails#0;class#ConsensusPruning#0" expanded="false" />
             <element signature="method#IterateGA#0;class#IterateGA#0;class#ConsensusPruning#0" expanded="false" />
+            <element signature="e#34809#34820#0" expanded="false" />
+            <marker date="1488013478640" expanded="false" signature="36568:36574" ph="&lt;~&gt;" />
+            <marker date="1488013478640" expanded="false" signature="36653:36662" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Operators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="444" column="0" selection-start-line="444" selection-start-column="0" selection-end-line="445" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metapiga/trees/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="194" column="4" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
+          <folding>
+            <element signature="method#Tree#0;class#Tree#0" expanded="false" />
+            <element signature="method#Tree#1;class#Tree#0" expanded="false" />
+            <element signature="method#clone#0;class#Tree#0" expanded="false" />
+            <element signature="e#12133#12167#0" expanded="false" />
+            <element signature="e#15717#15751#0" expanded="false" />
+            <element signature="method#root#0;class#Tree#0" expanded="false" />
+            <element signature="method#root#1;class#Tree#0" expanded="false" />
+            <element signature="method#setAccessNodeToOutgroupRoot#0;class#Tree#0" expanded="false" />
+            <element signature="method#isCompatibleWithDataset#0;class#Tree#0" expanded="false" />
+            <element signature="method#isCompatibleWithOutgroup#0;class#Tree#0" expanded="false" />
+            <element signature="method#setOutgroup#0;class#Tree#0" expanded="false" />
+            <element signature="method#labelizeTree#0;class#Tree#0" expanded="false" />
+            <element signature="method#unroot#0;class#Tree#0" expanded="false" />
+            <element signature="method#addNode#0;class#Tree#0" expanded="false" />
+            <element signature="method#getBranches#0;class#Tree#0" expanded="false" />
+            <element signature="method#getBranch#0;class#Tree#0" expanded="false" />
+            <element signature="method#initLikelihood#0;class#Tree#0" expanded="false" />
+            <element signature="method#initParsimony#0;class#Tree#0" expanded="false" />
+            <element signature="method#createOneTimeGraphicMemeory#0;class#Tree#0" expanded="false" />
+            <element signature="method#Evaluation#0;class#Tree#0" expanded="false" />
+            <element signature="method#getEvaluation#0;class#Tree#0" expanded="false" />
+            <element signature="method#isBetterThan#0;class#Tree#0" expanded="false" />
+            <element signature="method#isBetterThan#1;class#Tree#0" expanded="false" />
+            <element signature="method#markAllNodesToReEvaluate#0;class#Tree#0" expanded="false" />
+            <element signature="method#markNodeToReEvaluate#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationModel#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationStateFrequencies#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationRateParameter#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationRate#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationDistribution#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationDistributionSubsets#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationDistributionShape#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationPInv#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationAmongPartitionRate#0;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationAmongPartitionRate#1;class#Tree#0" expanded="false" />
+            <element signature="method#setEvaluationParameters#0;class#Tree#0" expanded="false" />
+            <element signature="method#getEvaluationStateFrequencies#0;class#Tree#0" expanded="false" />
+            <element signature="method#getEvaluationRateParameters#0;class#Tree#0" expanded="false" />
+            <element signature="method#computeLevelAndNbrOfLeaves#0;class#Tree#0" expanded="false" />
+            <element signature="method#fireInodeStructureChange#0;class#Tree#0" expanded="false" />
+            <element signature="method#getLevel#0;class#Tree#0" expanded="false" />
+            <element signature="method#getNodesInLevels#0;class#Tree#0" expanded="false" />
+            <element signature="method#getNumOfLeavesUnder#0;class#Tree#0" expanded="false" />
+            <element signature="method#getAllNodesUnderNeighbor#0;class#Tree#0" expanded="false" />
+            <element signature="method#getPreorderTraversal#0;class#Tree#0" expanded="false" />
+            <element signature="method#getPostorderTraversal#0;class#Tree#0" expanded="false" />
+            <element signature="method#toNewick#0;class#Tree#0" expanded="false" />
+            <element signature="method#toNewickLine#0;class#Tree#0" expanded="false" />
+            <element signature="method#toNewickLineWithML#0;class#Tree#0" expanded="false" />
+            <element signature="method#getEvaluationString#0;class#Tree#0" expanded="false" />
+            <element signature="method#parseEvaluationString#0;class#Tree#0" expanded="false" />
+            <element signature="method#generateNewick#0;class#Tree#0" expanded="false" />
+            <element signature="method#getAncestralStates#0;class#Tree#0" expanded="false" />
+            <element signature="method#getMostProbableAncestralSequence#0;class#Tree#0" expanded="false" />
+            <element signature="method#printAncestralStates#0;class#Tree#0" expanded="false" />
+            <element signature="class#Status#0;class#Tree#0" expanded="false" />
+            <element signature="method#Status#0;class#Status#0;class#Tree#0" expanded="false" />
+            <element signature="class#InOutMap#0;class#Tree#0" expanded="false" />
+            <element signature="method#InOutMap#0;class#InOutMap#0;class#Tree#0" expanded="false" />
+            <element signature="method#getNeighborsStatus#0;class#InOutMap#0;class#Tree#0" expanded="false" />
+            <element signature="method#assignGroup#0;class#InOutMap#0;class#Tree#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1632,10 +1783,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>metaGA1:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1684,7 +1837,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -200,7 +200,7 @@ public class Parameters
     private Tree NJT;
     public final ModelSampling modelSampling;
     public String ptxFilePath;
-    public List<Double> moweight;
+    public Double moweight;
     
     static {
         availableColors = new Color[] { new Color(145, 214, 134), new Color(255, 160, 122), new Color(127, 255, 212), new Color(224, 102, 255), new Color(135, 137, 211), new Color(216, 134, 134), new Color(138, 43, 226), new Color(255, 215, 0), new Color(133, 178, 209), new Color(255, 62, 150), new Color(127, 255, 0), new Color(103, 148, 255), new Color(0, 206, 209), new Color(206, 176, 134), new Color(30, 250, 100), new Color(255, 48, 48), new Color(134, 206, 189), new Color(0, 0, 255), new Color(255, 192, 203), new Color(0, 255, 255), new Color(255, 165, 0), new Color(219, 219, 112), new Color(255, 0, 255), new Color(255, 255, 0), new Color(0, 191, 255), new Color(139, 69, 19), new Color(0, 250, 154), new Color(255, 127, 0), new Color(133, 99, 99), new Color(187, 255, 255), new Color(0, 255, 0), new Color(255, 127, 36), new Color(194, 204, 134), new Color(255, 20, 147), new Color(202, 255, 112), new Color(221, 160, 221), new Color(46, 139, 87), new Color(205, 201, 165), new Color(16, 78, 139), new Color(139, 139, 0), new Color(152, 245, 255), new Color(255, 36, 0), new Color(60, 220, 220), new Color(125, 38, 205) };
@@ -297,11 +297,12 @@ public class Parameters
         this.gaOperatorChange = GAOperatorChange.IND;
         this.cpConsensus = CPConsensus.STOCHASTIC;
         this.cpOperator = CPOperator.SUPERVISED;
-        this.cpPopNum = 11;
-        this.cpIndNum = 8;
+        this.cpPopNum = 2;
+        this.cpIndNum = 4;
         this.cpTolerance = 0.05;
         this.cpHybridization = 0.1;
-        this.cpSelection = CPSelection.IMPROVE;
+        //this.cpSelection = CPSelection.IMPROVE;
+        this.cpSelection = CPSelection.TOURNAMENT;
         this.cpReplacementStrength = 1.0;
         this.cpRecombination = 0.1;
         this.cpOperatorChange = CPOperatorChange.IND;
@@ -310,7 +311,7 @@ public class Parameters
         if (this.dataset != null) {
             switch (this.dataset.getDataType()) {
                 case DNA: {
-                    this.evaluationModel = EvaluationModel.JC;
+                    this.evaluationModel = EvaluationModel.GTR;
                     break;
                 }
                 case PROTEIN: {
@@ -328,7 +329,7 @@ public class Parameters
             }
         }
         else {
-            this.evaluationModel = EvaluationModel.JC;
+            this.evaluationModel = EvaluationModel.GTR;
         }
         RateParameter[] values;
         for (int length = (values = RateParameter.values()).length, i = 0; i < length; ++i) {
@@ -341,12 +342,12 @@ public class Parameters
         this.evaluationDistributionSubsets = 4;
         this.evaluationDistributionShape = 1.0;
         this.evaluationPInv = 0.0;
-        this.startingTreeGeneration = StartingTreeGeneration.LNJ;
+        this.startingTreeGeneration = StartingTreeGeneration.NJ;
         this.startingTreeGenerationRange = 0.1;
         if (this.dataset != null) {
             switch (this.dataset.getDataType()) {
                 case DNA: {
-                    this.startingTreeModel = DistanceModel.JC;
+                    this.startingTreeModel = DistanceModel.GTR;
                     break;
                 }
                 case PROTEIN: {
@@ -364,7 +365,7 @@ public class Parameters
             }
         }
         else {
-            this.startingTreeModel = DistanceModel.JC;
+            this.startingTreeModel = DistanceModel.GTR;
         }
         this.startingTreeDistribution = StartingTreeDistribution.NONE;
         this.startingTreeDistributionShape = 0.5;
@@ -384,14 +385,13 @@ public class Parameters
         this.operators.add(Operator.TBR);
         this.operators.add(Operator.TXS);
         this.operatorsParameters.put(Operator.TXS, 2);
-        this.operators.add(Operator.STS);
         this.operatorsParameters.put(Operator.STS, 2);
         this.operators.add(Operator.BLM);
         this.operators.add(Operator.BLMINT);
         this.operatorSelection = OperatorSelection.RANDOM;
         this.dynamicInterval = 100;
         this.dynamicMin = 0.04;
-        this.columnRemoval = ColumnRemoval.NONE;
+        this.columnRemoval = ColumnRemoval.GAP;
         this.outputDir = Tools.getHomeDirectory() + "/MetaPIGA results";
         this.useGrid = false;
         this.gridServer = "";
@@ -402,21 +402,21 @@ public class Parameters
         this.outgroup.clear();
         this.deletedTaxa.clear();
         this.partitionColors.clear();
-        //this.sufficientStopConditions.add(HeuristicStopCondition.AUTO);
-        //this.sufficientStopConditions.add(HeuristicStopCondition.CONSENSUS);
+//        this.sufficientStopConditions.add(HeuristicStopCondition.AUTO);
+//        this.sufficientStopConditions.add(HeuristicStopCondition.CONSENSUS);
         this.sufficientStopConditions.add(HeuristicStopCondition.STEPS);
         this.stopCriterionSteps = 100;
         this.stopCriterionTime = 0.0;
-        this.stopCriterionAutoSteps = 100;
-        this.stopCriterionAutoThreshold = 1.0E-4;
+        this.stopCriterionAutoSteps = 200;
+        this.stopCriterionAutoThreshold = 1.0E-16;
         this.stopCriterionConsensusMRE = 0.05;
         this.stopCriterionConsensusGeneration = 5;
         this.stopCriterionConsensusInterval = 10;
         this.replicatesStopCondition = ReplicatesStopCondition.MRE;
         this.replicatesMRE = 0.05;
-        this.replicatesNumber = 1;
-        this.replicatesMinimum = 2;
-        this.replicatesMaximum = 5;
+        this.replicatesNumber = 10;
+        this.replicatesMinimum = 10;
+        this.replicatesMaximum = 10;
         this.replicatesInterval = 10;
         this.replicatesParallel = 1;
         this.logFiles.clear();
@@ -427,7 +427,7 @@ public class Parameters
         this.currentDNAtable = CodonTransitionTableType.UNIVERSAL;
     }
     
-    public void setParameters(final MetapigaBlock mp) {
+    public void  setParameters(final MetapigaBlock mp) {
         this.heuristic = mp.getHeuristic();
         this.hcRestart = mp.getHcRestart();
         this.saSchedule = mp.getSaSchedule();
